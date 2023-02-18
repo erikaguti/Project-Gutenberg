@@ -1,6 +1,6 @@
 import requests
 import urllib.request
-import pandas as pd
+import re
 
 # only downloads books in english
 
@@ -9,11 +9,10 @@ baseurl = 'https://gutendex.com/books?languages=en'
 def get_book(bookids):
     return
 
-
 def get_genre_booklist(genre):
     
     url = baseurl + f'&topic={genre}'
-    data = requests.get(url)
+    data = requests.get(url).json()
 
     books = []
     for i in data['results']:
@@ -27,16 +26,15 @@ def get_genre_booklist(genre):
 
 def download_books(books):
     for book in books:
-        text = urllib.request.urlopen(book[2])
-        book_text = ''
-        for line in text: 
-            book_text = book_text + str(line)
-        book.append(book_text)
+        try:
+            #pattern = re.compile(f'(?<=\*\*\* START OF THE PROJECT GUTENBERG EBOOK) {book[1]} \*\*\*(.*)(?=\*\*\* END OF THE PROJECT GUTENBERG EBOOK)')
+            text = urllib.request.urlopen(book[2])
+            book_text = ''
+            for line in text: 
+                book_text = book_text + str(line)
+            #book_text = pattern.search(book_text)
+            book.append(book_text)
+        except:
+            print(f"Unable to download {book[1]}")
     return books
 
-
-books = get_genre_booklist("horror")
-
-dataset = pd.DataFrame(download_books(books), columns = ['id', 'title', 'downloadlink', 'text'])
-
-dataset.to_csv('test.csv')
