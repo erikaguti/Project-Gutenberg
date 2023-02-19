@@ -69,9 +69,23 @@ pair=zip(df.title,mc)
 for i in pair:
      print(i)
 
-#%%
-mc
+
 # %%
+def get_maintext_lines_gutenberg(raw_text):
+    try:
+        text=re.findall(r'(?:START OF THIS PROJECT GUTENBERG EBOOK|START OF THE PROJECT GUTENBERG EBOOK)(.*)(?:END OF THIS PROJECT GUTENBERG EBOOK|END OF THE PROJECT GUTENBERG EBOOK|END OF PROJECT GUTENBERG)',raw_text)[0]
+    except:
+        text=raw_text
+    # print(text[0])
+    text=re.sub(r"""["'\[\];!:_.?\-,)(]+|\\*|\\r\\n|\\*x[e]*[0-9]*(?:\w)|['"]+b['"]+|(page \d+)""",'',text)
+    # text=re.sub(r'[^\w\s]','',text)
+    return text
 
+# %%
+df['text']=df.text.apply(get_maintext_lines_gutenberg)
+#%%
+# df.text[1]
+from Data import API 
 
-     
+from Data import get_data
+sections
