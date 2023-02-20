@@ -1,6 +1,7 @@
 import requests
 import urllib.request
 import re
+import pandas as pd
 
 # only downloads books in english
 
@@ -14,8 +15,9 @@ def get_text_file(formats, id):
 
 def download_txt_file(booktxt, id):
     r = requests.get(booktxt)
-    f = open(f"{id}.txt", "w")
+    f = open(f"Books/{id}.txt", "w")
     f.write(str(r.content))
+    f.close()
 
 def get_genre_booklist(genre):
     
@@ -32,19 +34,15 @@ def get_genre_booklist(genre):
     return books
 
 
-def download_books(books):
-    for book in books:
-        try:
-            #pattern = re.compile(f'(?<=\*\*\* START OF THE PROJECT GUTENBERG EBOOK) {book[1]} \*\*\*(.*)(?=\*\*\* END OF THE PROJECT GUTENBERG EBOOK)')
-            text = urllib.request.urlopen(book[2])
-            book_text = ''
-            for line in text: 
-                book_text = book_text + str(line)
-            #book_text = pattern.search(book_text)
-            book.append(book_text)
-        except:
-            print(f"Unable to download {book[1]}")
-    return books
+def download_book(book):
+    try:
+        text = urllib.request.urlopen(book)
+        book_text = ''
+        for line in text: 
+            book_text = book_text + str(line)
+    except:
+            print(f"Unable to download {book}")
+    return book
 
 
 def get_book(title, author, baseurl):
@@ -59,7 +57,25 @@ def get_book(title, author, baseurl):
     
     for book in data['results']:
         if title in book['title'].lower():
-            break
-    for format in book['formats']:
-        print(book['formats'][format])
+            get_text_file(book['formats'], book['id'])
+            metadata = {'id': book['id'],'title':book['title']}
+            return metadata
+        
+
+# example implementation
+
+book_list = {'book':['The Scarlet Letter', 'Little Women', 'The Legend of Sleepy Hollow'], 
+ 'author': ['Nathaniel Hawthorne','Louisa May Alcott', 'Washington Irving']}
+
+dataset = pd.DataFrame(book_list)
+
+downloads = []
+for i in range(len(dataset)):
+    downloaded = get_book(dataset.loc[i,'book'], dataset.loc[i,'author'], baseurl)
+    downloads.append(downloaded)
+
+print(downloads)
+
+
+
 
