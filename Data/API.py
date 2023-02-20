@@ -6,8 +6,16 @@ import re
 
 baseurl = 'https://gutendex.com/books?languages=en'
 
-def get_book(bookids):
-    return
+def get_text_file(formats, id):
+   for format in formats.values():
+        if format.endswith('.txt'):
+            download_txt_file(format, id)
+
+
+def download_txt_file(booktxt, id):
+    r = requests.get(booktxt)
+    f = open(f"{id}.txt", "w")
+    f.write(str(r.content))
 
 def get_genre_booklist(genre):
     
@@ -37,4 +45,21 @@ def download_books(books):
         except:
             print(f"Unable to download {book[1]}")
     return books
+
+
+def get_book(title, author, baseurl):
+    title = title.lower()
+    author = author.lower()
+    
+    author_search_string = author.replace(' ','%20')
+    title_search_string = title.replace(' ', '%20')
+
+    url = baseurl + f'&search={author_search_string}%20{title_search_string}'
+    data = requests.get(url).json()
+    
+    for book in data['results']:
+        if title in book['title'].lower():
+            break
+    for format in book['formats']:
+        print(book['formats'][format])
 
