@@ -1,4 +1,3 @@
-#%%
 import argparse
 from datetime import datetime
 import json
@@ -75,9 +74,8 @@ def get_genres(soup):
     genres = []
     for node in soup.find_all('div', {'data-testid': 'genresList'}):
         current_genres = node.find_all('span', {'class': 'Button__labelItem'})
-        current_genre = '>'.join([g.text for g in current_genres])
-        
-    genres.extend(current_genre.split(sep='>'))
+        current_genre = [g.text for g in current_genres]
+        genres.extend(current_genre)
     return genres
 
 
@@ -199,23 +197,23 @@ def condense_books(books_directory_path):
     return books
 
 
-def main():
+def main(book_ids,format='csv',output_directory_path='metadata',):
 
     start_time = datetime.now()
     script_name = os.path.basename(__file__)
+    
+    # parser = argparse.ArgumentParser()
+    # parser.add_argument('--book_ids_path', type=str)
+    # parser.add_argument('--output_directory_path', type=str)
+    # parser.add_argument('--format', type=str, action="store", default="json",
+    #                     dest="format", choices=["json", "csv"],
+    #                     help="set file output format")
+    # args = parser.parse_args()
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--book_ids_path', type=str)
-    parser.add_argument('--output_directory_path', type=str)
-    parser.add_argument('--format', type=str, action="store", default="json",
-                        dest="format", choices=["json", "csv"],
-                        help="set file output format")
-    args = parser.parse_args()
-
-    book_ids              = [line.strip() for line in open(args.book_ids_path, 'r') if line.strip()]
-    books_already_scraped =  [file_name.replace('_book-metadata.json', '') for file_name in os.listdir(args.output_directory_path) if file_name.endswith('.json') and not file_name.startswith('all_books')]
+    # book_ids              = [line.strip() for line in open(args.book_ids_path, 'r') if line.strip()]
+    books_already_scraped =  [file_name.replace('_book-metadata.json', '') for file_name in os.listdir(output_directory_path) if file_name.endswith('.json') and not file_name.startswith('all_books')]
     books_to_scrape       = [book_id for book_id in book_ids if book_id not in books_already_scraped]
-    condensed_books_path   = args.output_directory_path + '/all_books'
+    condensed_books_path   = output_directory_path + '/all_books'
 
     for i, book_id in enumerate(books_to_scrape):
         try:
@@ -224,7 +222,7 @@ def main():
 
             book = scrape_book(book_id)
             # Add book metadata to file name to be more specific
-            json.dump(book, open(args.output_directory_path + '/' + book_id + '_book-metadata.json', 'w'))
+            json.dump(book, open(output_directory_path + '/' + book_id + '_book-metadata.json', 'w'))
 
             print('=============================')
 
@@ -233,20 +231,28 @@ def main():
             exit(0)
 
 
-    books = condense_books(args.output_directory_path)
-    if args.format == 'json':
+    books = condense_books(output_directory_path)
+    if format == 'json':
         json.dump(books, open(f"{condensed_books_path}.json", 'w'))
-    elif args.format == 'csv':
+    elif format == 'csv':
         json.dump(books, open(f"{condensed_books_path}.json", 'w'))
         book_df = pd.read_json(f"{condensed_books_path}.json")
         book_df.to_csv(f"{condensed_books_path}.csv", index=False, encoding='utf-8')
         
-    print(str(datetime.now()) + ' ' + script_name + f':\n\n🎉 Success! All book metadata scraped. 🎉\n\nMetadata files have been output to /{args.output_directory_path}\nGoodreads scraping run time = ⏰ ' + str(datetime.now() - start_time) + ' ⏰')
+    print(str(datetime.now()) + ' ' + script_name + f':\n\n🎉 Success! All book metadata scraped. 🎉\n\nMetadata files have been output to /{output_directory_path}\nGoodreads scraping run time = ⏰ ' + str(datetime.now() - start_time) + ' ⏰')
 
 
 
-if __name__ == '__main__':
-    main()
+if __name__=='__main__':
+    american_lit_df=pd.read_csv('book_ids.csv')
+    book_ids=american_lit_df.id.apply(lambda x : re.findall(r'/show/(.*)',x)[0]).to_list()
 
-# To call this script from another file, just run the following command
-# os.system("python goodreads.py --book_ids_path [path_of_file_with_book_ids] --output_directory_path [outputfolderpath] --format csv " )
+    main(book_ids)
+
+'''
+To run this from another script call goodreads.main(book_ids) where bookids 
+is the list of ids you want data for.
+If you have already run this file, and you just want to get the 
+metadata of the scraped books, you can do
+pd.read_csv('metadata/all_books.csv')
+'''
