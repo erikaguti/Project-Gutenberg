@@ -1,0 +1,748 @@
+,id,title,author
+0,https://www.goodreads.com/book/show/1885.Pride_and_Prejudice,Pride and Prejudice,Jane Austen
+1,https://www.goodreads.com/book/show/10210.Jane_Eyre,Jane Eyre,Charlotte Brontë
+2,https://www.goodreads.com/book/show/6185.Wuthering_Heights,Wuthering Heights,Emily Brontë
+3,https://www.goodreads.com/book/show/35031085-frankenstein,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley
+4,https://www.goodreads.com/book/show/14935.Sense_and_Sensibility,Sense and Sensibility,Jane Austen
+5,https://www.goodreads.com/book/show/2623.Great_Expectations,Great Expectations,Charles Dickens
+6,https://www.goodreads.com/book/show/15823480-anna-karenina,Anna Karenina,Leo Tolstoy
+7,https://www.goodreads.com/book/show/17245.Dracula,Dracula,Bram Stoker
+8,https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray,The Picture of Dorian Gray,Oscar Wilde
+9,https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities,A Tale of Two Cities,Charles Dickens
+10,https://www.goodreads.com/book/show/1934.Little_Women,Little Women,Louisa May Alcott
+11,https://www.goodreads.com/book/show/153747.Moby_Dick_or_the_Whale,"Moby-Dick or, the Whale",Herman Melville
+12,https://www.goodreads.com/book/show/2156.Persuasion,Persuasion,Jane Austen
+13,https://www.goodreads.com/book/show/32261.Tess_of_the_D_Urbervilles,Tess of the D'Urbervilles,Thomas Hardy
+14,https://www.goodreads.com/book/show/12296.The_Scarlet_Letter,The Scarlet Letter,Nathaniel Hawthorne
+15,https://www.goodreads.com/book/show/6969.Emma,Emma,Jane Austen
+16,https://www.goodreads.com/book/show/7144.Crime_and_Punishment,Crime and Punishment,Fyodor Dostoevsky
+17,https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn,The Adventures of Huckleberry Finn,Mark Twain
+18,https://www.goodreads.com/book/show/5326.A_Christmas_Carol,A Christmas Carol,Charles Dickens
+19,https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo,The Count of Monte Cristo,Alexandre Dumas
+20,https://www.goodreads.com/book/show/2175.Madame_Bovary,Madame Bovary,Gustave Flaubert
+21,https://www.goodreads.com/book/show/18254.Oliver_Twist,Oliver Twist,Charles Dickens
+22,https://www.goodreads.com/book/show/19089.Middlemarch,Middlemarch,George Eliot
+23,https://www.goodreads.com/book/show/5890.The_Woman_in_White,The Woman in White,Wilkie Collins
+24,https://www.goodreads.com/book/show/50398.Northanger_Abbey,Northanger Abbey,Jane Austen
+25,https://www.goodreads.com/book/show/295.Treasure_Island,Treasure Island,Robert Louis Stevenson
+26,https://www.goodreads.com/book/show/24280.Les_Mis_rables,Les Misérables,Victor Hugo
+27,https://www.goodreads.com/book/show/5797.Vanity_Fair,Vanity Fair,William Makepeace Thackeray
+28,https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson
+29,https://www.goodreads.com/book/show/4900.Heart_of_Darkness,Heart of Darkness,Joseph Conrad
+30,https://www.goodreads.com/book/show/156538.North_and_South,North and South,Elizabeth Gaskell
+31,https://www.goodreads.com/book/show/31242.Bleak_House,Bleak House,Charles Dickens
+32,https://www.goodreads.com/book/show/45032.Mansfield_Park,Mansfield Park,Jane Austen
+33,https://www.goodreads.com/book/show/656.War_and_Peace,War and Peace,Leo Tolstoy
+34,https://www.goodreads.com/book/show/54539.Silas_Marner,Silas Marner,George Eliot
+35,https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass,Alice's Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll
+36,https://www.goodreads.com/book/show/31173.Villette,Villette,Charlotte Brontë
+37,https://www.goodreads.com/book/show/5344.Hard_Times,Hard Times,Charles Dickens
+38,https://www.goodreads.com/book/show/12948.The_Turn_of_the_Screw,The Turn of the Screw,Henry James
+39,https://www.goodreads.com/book/show/6138.The_Moonstone,The Moonstone,Wilkie Collins
+40,https://www.goodreads.com/book/show/264.The_Portrait_of_a_Lady,The Portrait of a Lady,Henry James
+41,https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer,The Adventures of Tom Sawyer,Mark Twain
+42,https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov,The Brothers Karamazov,Fyodor Dostoevsky
+43,https://www.goodreads.com/book/show/58696.David_Copperfield,David Copperfield,Charles Dickens
+44,https://www.goodreads.com/book/show/182381.Cranford,Cranford,Elizabeth Gaskell
+45,https://www.goodreads.com/book/show/31463.Far_From_the_Madding_Crowd,Far From the Madding Crowd,Thomas Hardy
+46,https://www.goodreads.com/book/show/298230.Agnes_Grey,Agnes Grey,Anne Brontë
+47,https://www.goodreads.com/book/show/58345.The_Awakening,The Awakening,Kate Chopin
+48,https://www.goodreads.com/book/show/267123.The_Warden,"The Warden (Chronicles of Barsetshire, #1)",Anthony Trollope
+49,https://www.goodreads.com/book/show/383206.Wives_and_Daughters,Wives and Daughters,Elizabeth Gaskell
+50,https://www.goodreads.com/book/show/31250.Little_Dorrit,Little Dorrit,Charles Dickens
+51,https://www.goodreads.com/book/show/337113.The_Tenant_of_Wildfell_Hall,The Tenant of Wildfell Hall,Anne Brontë
+52,https://www.goodreads.com/book/show/12505.The_Idiot,The Idiot,Fyodor Dostoevsky
+53,https://www.goodreads.com/book/show/31244.Our_Mutual_Friend,Our Mutual Friend,Charles Dickens
+54,https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych,The Death of Ivan Ilych,Leo Tolstoy
+55,https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet,"A Study in Scarlet (Sherlock Holmes, #1)",Arthur Conan Doyle
+56,https://www.goodreads.com/book/show/2493.The_Time_Machine,The Time Machine,H.G. Wells
+57,https://www.goodreads.com/book/show/49455.Notes_from_Underground,Notes from Underground,Fyodor Dostoevsky
+58,https://www.goodreads.com/book/show/608474.The_Sign_of_Four,"The Sign of Four (Sherlock Holmes, #2)",Arthur Conan Doyle
+59,https://www.goodreads.com/book/show/46787.Uncle_Tom_s_Cabin,Uncle Tom's Cabin,Harriet Beecher Stowe
+60,https://www.goodreads.com/book/show/30597.Notre_Dame_de_Paris_The_Hunchback_of_Notre_Dame,Notre-Dame de Paris | The Hunchback of Notre-Dame,Victor Hugo
+61,https://www.goodreads.com/book/show/28381.Dead_Souls,Dead Souls,Nikolai Gogol
+62,https://www.goodreads.com/book/show/50798.Jude_the_Obscure,Jude the Obscure,Thomas Hardy
+63,https://www.goodreads.com/book/show/588747.Lady_Audley_s_Secret,Lady Audley's Secret,Mary Elizabeth Braddon
+64,https://www.goodreads.com/book/show/229432.The_Pickwick_Papers,The Pickwick Papers,Charles Dickens
+65,https://www.goodreads.com/book/show/304.Daniel_Deronda,Daniel Deronda,George Eliot
+66,https://www.goodreads.com/book/show/50827.Dombey_and_Son,Dombey and Son,Charles Dickens
+67,https://www.goodreads.com/book/show/56759.The_Mayor_of_Casterbridge,The Mayor of Casterbridge,Thomas Hardy
+68,https://www.goodreads.com/book/show/32650.The_Return_of_the_Native,The Return of the Native,Thomas Hardy
+69,https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds,The War of the Worlds,H.G. Wells
+70,https://www.goodreads.com/book/show/90192.The_House_of_the_Seven_Gables,The House of the Seven Gables,Nathaniel Hawthorne
+71,https://www.goodreads.com/book/show/19117.Fathers_and_Sons,Fathers and Sons,Ivan Turgenev
+72,https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle
+73,https://www.goodreads.com/book/show/133954.Washington_Square,Washington Square,Henry James
+74,https://www.goodreads.com/book/show/20564.The_Mill_on_the_Floss,The Mill on the Floss,George Eliot
+75,https://www.goodreads.com/book/show/149785.The_Way_We_Live_Now,The Way We Live Now,Anthony Trollope
+76,https://www.goodreads.com/book/show/17184.The_Invisible_Man,The Invisible Man,H.G. Wells
+77,https://www.goodreads.com/book/show/325128.Kidnapped,"Kidnapped (David Balfour, #1)",Robert Louis Stevenson
+78,https://www.goodreads.com/book/show/6440.Ivanhoe,Ivanhoe,Walter Scott
+79,https://www.goodreads.com/book/show/7190.The_Three_Musketeers,"The Three Musketeers (The D'Artagnan Romances, #1)",Alexandre Dumas
+80,https://www.goodreads.com/book/show/31168.Shirley,Shirley,Charlotte Brontë
+81,https://www.goodreads.com/book/show/35220.The_Red_Badge_of_Courage,The Red Badge of Courage,Stephen Crane
+82,https://www.goodreads.com/book/show/14662.The_Red_and_the_Black,The Red and the Black,Stendhal
+83,https://www.goodreads.com/book/show/59145.P_re_Goriot,Père Goriot,Honoré de Balzac
+84,https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems,The Complete Stories and Poems,Edgar Allan Poe
+85,https://www.goodreads.com/book/show/374371.Can_You_Forgive_Her_,"Can You Forgive Her? (Palliser, #1)",Anthony Trollope
+86,https://www.goodreads.com/book/show/31175.The_Professor,The Professor,Charlotte Brontë
+87,https://www.goodreads.com/book/show/125321.Barchester_Towers,"Barchester Towers (Chronicles of Barsetshire, #2)",Anthony Trollope
+88,https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper,The Yellow Wall-Paper,Charlotte Perkins Gilman
+89,https://www.goodreads.com/book/show/48037.Carmilla,Carmilla,J. Sheridan Le Fanu
+90,https://www.goodreads.com/book/show/51497.The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyde_and_Other_Tales_of_Terror,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror,Robert Louis Stevenson
+91,https://www.goodreads.com/book/show/837422.In_a_Glass_Darkly,In a Glass Darkly,J. Sheridan Le Fanu
+92,https://www.goodreads.com/book/show/32829.Journey_to_the_Center_of_the_Earth,Journey to the Center of the Earth,Jules Verne
+93,https://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau,The Island of Dr. Moreau,H.G. Wells
+94,https://www.goodreads.com/book/show/28407.Germinal,Germinal,Émile Zola
+95,https://www.goodreads.com/book/show/110871.Th_r_se_Raquin,Thérèse Raquin,Émile Zola
+96,https://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest,The Importance of Being Earnest,Oscar Wilde
+97,https://www.goodreads.com/book/show/374352.Phineas_Finn,"Phineas Finn (Palliser, #2)",Anthony Trollope
+98,https://www.goodreads.com/book/show/2183.Sentimental_Education,Sentimental Education,Gustave Flaubert
+99,https://www.goodreads.com/book/show/721012.The_Legend_of_Sleepy_Hollow_and_Other_Stories,The Legend of Sleepy Hollow and Other Stories,Washington Irving
+100,https://www.goodreads.com/book/show/782519.New_Grub_Street,New Grub Street,George Gissing
+101,https://www.goodreads.com/book/show/162898.A_Connecticut_Yankee_in_King_Arthur_s_Court,A Connecticut Yankee in King Arthur's Court,Mark Twain
+102,https://www.goodreads.com/book/show/78950.Little_Men,Little Men,Louisa May Alcott
+103,https://www.goodreads.com/book/show/325085.Nicholas_Nickleby,Nicholas Nickleby,Charles Dickens
+104,https://www.goodreads.com/book/show/54620.Mary_Barton,Mary Barton,Elizabeth Gaskell
+105,https://www.goodreads.com/book/show/1990.Martin_Chuzzlewit,Martin Chuzzlewit,Charles Dickens
+106,https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea,"Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",Jules Verne
+107,https://www.goodreads.com/book/show/14680.The_Charterhouse_of_Parma,The Charterhouse of Parma,Stendhal
+108,https://www.goodreads.com/book/show/60671823-alice-s-adventures-in-wonderland,Alice's Adventures in Wonderland,Lewis Carroll
+109,https://www.goodreads.com/book/show/371456.Nana,Nana,Émile Zola
+110,https://www.goodreads.com/book/show/966835.The_Last_Man,The Last Man,Mary Wollstonecraft Shelley
+111,https://www.goodreads.com/book/show/429024.The_Old_Curiosity_Shop,The Old Curiosity Shop,Charles Dickens
+112,https://www.goodreads.com/book/show/20563.Adam_Bede,Adam Bede,George Eliot
+113,https://www.goodreads.com/book/show/329957.The_Mystery_of_Edwin_Drood,The Mystery of Edwin Drood,Charles Dickens
+114,https://www.goodreads.com/book/show/114230.Bartleby_the_Scrivener,"Bartleby, the Scrivener: A Story of Wall Street",Herman Melville
+115,https://www.goodreads.com/book/show/50776.The_Blithedale_Romance,The Blithedale Romance,Nathaniel Hawthorne
+116,https://www.goodreads.com/book/show/207313.Melmoth_the_Wanderer,Melmoth the Wanderer,Charles Maturin
+117,https://www.goodreads.com/book/show/5695.Demons,Demons,Fyodor Dostoevsky
+118,https://www.goodreads.com/book/show/516570.Erewhon,"Erewhon (Erewhon, #1)",Samuel Butler
+119,https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles,"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle
+120,https://www.goodreads.com/book/show/392452.What_Maisie_Knew,What Maisie Knew,Henry James
+121,https://www.goodreads.com/book/show/38296.The_Last_of_the_Mohicans,"The Last of the Mohicans (The Leatherstocking Tales, #2)",James Fenimore Cooper
+122,https://www.goodreads.com/book/show/3685.Black_Beauty,Black Beauty,Anna Sewell
+123,https://www.goodreads.com/book/show/16204.Daisy_Miller,Daisy Miller,Henry James
+124,https://www.goodreads.com/book/show/11026.Barnaby_Rudge,Barnaby Rudge,Charles Dickens
+125,https://www.goodreads.com/book/show/535856.The_Diary_of_a_Nobody,The Diary of a Nobody,George Grossmith
+126,https://www.goodreads.com/book/show/32585.Hunger,Hunger,Knut Hamsun
+127,https://www.goodreads.com/book/show/374360.Phineas_Redux,"Phineas Redux (Palliser, #4)",Anthony Trollope
+128,https://www.goodreads.com/book/show/87264.Mem_rias_P_stumas_de_Br_s_Cubas,Memórias Póstumas de Brás Cubas,Machado de Assis
+129,https://www.goodreads.com/book/show/12857.The_Gambler,The Gambler,Fyodor Dostoevsky
+130,https://www.goodreads.com/book/show/15613.Billy_Budd_Sailor,"Billy Budd, Sailor",Herman Melville
+131,https://www.goodreads.com/book/show/41684.The_Jungle_Books,The Jungle Books,Rudyard Kipling
+132,https://www.goodreads.com/book/show/766869.The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket,The Narrative of Arthur Gordon Pym of Nantucket,Edgar Allan Poe
+133,https://www.goodreads.com/book/show/182385.Gothic_Tales,Gothic Tales,Elizabeth Gaskell
+134,https://www.goodreads.com/book/show/338807.Ruth,Ruth,Elizabeth Gaskell
+135,https://www.goodreads.com/book/show/816740.The_Beetle,The Beetle,Richard Marsh
+136,https://www.goodreads.com/book/show/374380.The_Duke_s_Children,"The Duke's Children (Palliser, #6)",Anthony Trollope
+137,https://www.goodreads.com/book/show/4921.Three_Men_in_a_Boat,"Three Men in a Boat (Three Men, #1)",Jerome K. Jerome
+138,https://www.goodreads.com/book/show/226378.A_Hero_of_Our_Time,A Hero of Our Time,Mikhail Lermontov
+139,https://www.goodreads.com/book/show/27822.Eugene_Onegin,Eugene Onegin,Alexander Pushkin
+140,https://www.goodreads.com/book/show/254308.Oblomov,Oblomov,Ivan Goncharov
+141,https://www.goodreads.com/book/show/45205.No_Name,No Name,Wilkie Collins
+142,https://www.goodreads.com/book/show/87580.The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner,The Private Memoirs and Confessions of a Justified Sinner,James Hogg
+143,https://www.goodreads.com/book/show/54479.Around_the_World_in_Eighty_Days,Around the World in Eighty Days,Jules Verne
+144,https://www.goodreads.com/book/show/49190.Uncle_Silas,Uncle Silas,J. Sheridan Le Fanu
+145,https://www.goodreads.com/book/show/23814.King_Solomon_s_Mines,"King Solomon's Mines (Allan Quatermain, #1)",H. Rider Haggard
+146,https://www.goodreads.com/book/show/682793.Pudd_nhead_Wilson,Pudd'nhead Wilson,Mark Twain
+147,https://www.goodreads.com/book/show/444381.The_Princess_and_the_Goblin,"The Princess and the Goblin  (Princess Irene and Curdie, #1)",George MacDonald
+148,https://www.goodreads.com/book/show/3008.A_Little_Princess,A Little Princess,Frances Hodgson Burnett
+149,https://www.goodreads.com/book/show/25932.Lost_Illusions,Lost Illusions,Honoré de Balzac
+150,https://www.goodreads.com/book/show/83346.Through_the_Looking_Glass_and_What_Alice_Found_There,"Through the Looking-Glass and What Alice Found There (Alice's Adventures in Wonderland, #2)",Lewis Carroll
+151,https://www.goodreads.com/book/show/655.The_Death_of_Ivan_Ilych_and_Other_Stories,The Death of Ivan Ilych and Other Stories,Leo Tolstoy
+152,https://www.goodreads.com/book/show/899492.The_Tell_Tale_Heart,The Tell-Tale Heart,Edgar Allan Poe
+153,https://www.goodreads.com/book/show/526187.The_Prime_Minister,The Prime Minister (Palliser #5),Anthony Trollope
+154,https://www.goodreads.com/book/show/77270.The_Jungle_Book,The Jungle Book,Rudyard Kipling
+155,https://www.goodreads.com/book/show/174948.Phantastes,Phantastes,George MacDonald
+156,https://www.goodreads.com/book/show/472968.The_Vampyre_and_Other_Tales_of_the_Macabre,The Vampyre and Other Tales of the Macabre,Robert  Morrison
+157,https://www.goodreads.com/book/show/268187.Lilith,Lilith,George MacDonald
+158,https://www.goodreads.com/book/show/971088.The_Egoist,The Egoist,George Woodcock
+159,https://www.goodreads.com/book/show/22917.The_Complete_Grimm_s_Fairy_Tales,The Complete Grimm's Fairy Tales,Jacob Grimm
+160,https://www.goodreads.com/book/show/3597.The_Complete_Adventures_and_Memoirs_of_Sherlock_Holmes,The Complete Adventures and Memoirs of Sherlock Holmes,Arthur Conan Doyle
+161,https://www.goodreads.com/book/show/144463.The_Small_House_at_Allington,"The Small House at Allington (Chronicles of Barsetshire, #5)",Anthony Trollope
+162,https://www.goodreads.com/book/show/194546.The_Bostonians,The Bostonians,Henry James
+163,https://www.goodreads.com/book/show/830205.Sylvia_s_Lovers,Sylvia's Lovers,Elizabeth Gaskell
+164,https://www.goodreads.com/book/show/699468.The_Well_Beloved,The Well-Beloved,Thomas Hardy
+165,https://www.goodreads.com/book/show/267102.Framley_Parsonage,Framley Parsonage (Chronicles of Barsetshire #4),Anthony Trollope
+166,https://www.goodreads.com/book/show/414295.Dr_Thorne,Dr. Thorne (Chronicles of Barsetshire #3),Anthony Trollope
+167,https://www.goodreads.com/book/show/37793.A_Doll_s_House,A Doll's House,Henrik Ibsen
+168,https://www.goodreads.com/book/show/194373.The_Memoirs_of_Sherlock_Holmes,"The Memoirs of Sherlock Holmes (Sherlock Holmes, #4)",Arthur Conan Doyle
+169,https://www.goodreads.com/book/show/341281.The_Woodlanders,The Woodlanders,Thomas Hardy
+170,https://www.goodreads.com/book/show/13023.Alice_in_Wonderland,Alice in Wonderland,Jane Carruth
+171,https://www.goodreads.com/book/show/175516.The_Fall_of_the_House_of_Usher,The Fall of the House of Usher: An Edgar Allan Poe Short Story,Edgar Allan Poe
+172,https://www.goodreads.com/book/show/566328.The_Betrothed,The Betrothed,Alessandro Manzoni
+173,https://www.goodreads.com/book/show/780581.Bel_Ami,Bel-Ami,Guy de Maupassant
+174,https://www.goodreads.com/book/show/372319.Jo_s_Boys,Jo's Boys,Louisa May Alcott
+175,https://www.goodreads.com/book/show/210834.Kim,Kim,Rudyard Kipling
+176,https://www.goodreads.com/book/show/137277.The_Europeans,The Europeans,Henry James
+177,https://www.goodreads.com/book/show/210255.Against_Nature,Against Nature,Joris-Karl Huysmans
+178,https://www.goodreads.com/book/show/620790.A_Long_Fatal_Love_Chase,A Long Fatal Love Chase,Louisa May Alcott
+179,https://www.goodreads.com/book/show/92967.L_Assommoir,L'Assommoir,Émile Zola
+180,https://www.goodreads.com/book/show/14570.Eight_Cousins,"Eight Cousins (Eight Cousins, #1)",Louisa May Alcott
+181,https://www.goodreads.com/book/show/59144.Cousin_Bette,Cousin Bette,Honoré de Balzac
+182,https://www.goodreads.com/book/show/58343.The_Awakening_and_Selected_Stories,The Awakening and Selected Stories,Kate Chopin
+183,https://www.goodreads.com/book/show/73960.Lorna_Doone,Lorna Doone,R.D. Blackmore
+184,https://www.goodreads.com/book/show/206173.The_Pit_and_the_Pendulum,The Pit and the Pendulum,Edgar Allan Poe
+185,https://www.goodreads.com/book/show/88179.Fairy_Tales,Fairy Tales,Hans Christian Andersen
+186,https://www.goodreads.com/book/show/1772910.White_Nights,White Nights,Fyodor Dostoevsky
+187,https://www.goodreads.com/book/show/539025.Waverley,Waverley,Walter Scott
+188,https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz,"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum
+189,https://www.goodreads.com/book/show/3301759-the-murders-in-the-rue-morgue,"The Murders in the Rue Morgue (C. Auguste Dupin, #1)",Edgar Allan Poe
+190,https://www.goodreads.com/book/show/381362.The_Rise_of_Silas_Lapham,The Rise of Silas Lapham,William Dean Howells
+191,https://www.goodreads.com/book/show/20675.The_American,The American,Henry James
+192,https://www.goodreads.com/book/show/103086.The_Man_Who_Would_Be_King,The Man Who Would Be King,Rudyard Kipling
+193,https://www.goodreads.com/book/show/93.Heidi,Heidi,Johanna Spyri
+194,https://www.goodreads.com/book/show/178629.Benito_Cereno,Benito Cereno,Herman Melville
+195,https://www.goodreads.com/book/show/882993.Cousin_Phyllis,Cousin Phyllis,Elizabeth Gaskell
+196,https://www.goodreads.com/book/show/156152.Tales_of_Mystery_and_Imagination,Tales of Mystery and Imagination,Edgar Allan Poe
+197,https://www.goodreads.com/book/show/360370.A_Country_Doctor,A Country Doctor,Sarah Orne Jewett
+198,https://www.goodreads.com/book/show/887338.Hope_Leslie,"Hope Leslie: or, Early Times in the Massachusetts",Catharine Maria Sedgwick
+199,https://www.goodreads.com/book/show/73954.The_Eustace_Diamonds,"The Eustace Diamonds (Palliser, #3)",Anthony Trollope
+200,https://www.goodreads.com/book/show/562471.Young_Goodman_Brown,Young Goodman Brown,Nathaniel Hawthorne
+201,https://www.goodreads.com/book/show/597702.The_Wide_Wide_World,"The Wide, Wide World",Susan Bogert Warner
+202,https://www.goodreads.com/book/show/221597.Salammb_,Salammbô,Gustave Flaubert
+203,https://www.goodreads.com/book/show/126609.Sister_Carrie,Sister Carrie,Theodore Dreiser
+204,https://www.goodreads.com/book/show/210190.The_Double,The Double,Fyodor Dostoevsky
+205,https://www.goodreads.com/book/show/2182.Three_Tales,Three Tales,Gustave Flaubert
+206,https://www.goodreads.com/book/show/680596.Der_Sandmann,Der Sandmann,E.T.A. Hoffmann
+207,https://www.goodreads.com/book/show/1249630.Os_Maias,Os Maias,Eça de Queirós
+208,https://www.goodreads.com/book/show/269894.A_Simple_Heart,A Simple Heart,Gustave Flaubert
+209,https://www.goodreads.com/book/show/17877.The_House_of_the_Dead,The House of the Dead,Fyodor Dostoevsky
+210,https://www.goodreads.com/book/show/231560.Uncle_Vanya,Uncle Vanya,Anton Chekhov
+211,https://www.goodreads.com/book/show/455696.Adolphe,Adolphe,Benjamin Constant
+212,https://www.goodreads.com/book/show/12950.The_Turn_of_the_Screw_and_The_Aspern_Papers,The Turn of the Screw and The Aspern Papers,Henry James
+213,https://www.goodreads.com/book/show/549938.The_Cricket_on_the_Hearth,The Cricket on the Hearth,Charles Dickens
+214,https://www.goodreads.com/book/show/221391.Mathilda,Mathilda,Mary Wollstonecraft Shelley
+215,https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell,Jonathan Strange & Mr Norrell,Susanna Clarke
+216,https://www.goodreads.com/book/show/34053.Just_So_Stories,Just So Stories,Rudyard Kipling
+217,https://www.goodreads.com/book/show/400885.Sketches_by_Boz,Sketches by Boz,Charles Dickens
+218,https://www.goodreads.com/book/show/32559.The_Fall_of_the_House_of_Usher_and_Other_Tales,The Fall of the House of Usher and Other Tales,Edgar Allan Poe
+219,https://www.goodreads.com/book/show/888.The_Last_Days_of_Pompeii,The Last Days of Pompeii,Edward Bulwer-Lytton
+220,https://www.goodreads.com/book/show/835508.Romola,Romola,George Eliot
+221,https://www.goodreads.com/book/show/16138688-the-painted-girls,The Painted Girls,Cathy Marie Buchanan
+222,https://www.goodreads.com/book/show/1147633.Tom_Brown_s_Schooldays,Tom Brown's Schooldays,Thomas Hughes
+223,https://www.goodreads.com/book/show/14706.Faust_First_Part,"Faust, First Part",Johann Wolfgang von Goethe
+224,https://www.goodreads.com/book/show/246245.The_Deerslayer,"The Deerslayer (The Leatherstocking Tales, #1)",James Fenimore Cooper
+225,https://www.goodreads.com/book/show/442296.Effi_Briest,Effi Briest,Theodor Fontane
+226,https://www.goodreads.com/book/show/5338.A_Christmas_Carol_and_Other_Christmas_Writings,A Christmas Carol and Other Christmas Writings,Charles Dickens
+227,https://www.goodreads.com/book/show/723155.The_Wood_Beyond_the_World,The Wood Beyond the World,William Morris
+228,https://www.goodreads.com/book/show/5984208-maldoror-and-poems,Maldoror and Poems,Comte de Lautréamont
+229,https://www.goodreads.com/book/show/17728.The_House_of_Mirth,The House of Mirth,Edith Wharton
+230,https://www.goodreads.com/book/show/297851.Desperate_Remedies,Desperate Remedies,Thomas Hardy
+231,https://www.goodreads.com/book/show/139888.Barry_Lyndon,Barry Lyndon,William Makepeace Thackeray
+232,https://www.goodreads.com/book/show/28413.The_Ladies_Paradise,The Ladies' Paradise,Émile Zola
+233,https://www.goodreads.com/book/show/311367.The_Princess_Casamassima,The Princess Casamassima,Henry James
+234,https://www.goodreads.com/book/show/62111.The_Swiss_Family_Robinson,The Swiss Family Robinson,Johann David Wyss
+235,https://www.goodreads.com/book/show/208977.Maggie,Maggie: A Girl of the Streets,Stephen Crane
+236,https://www.goodreads.com/book/show/34058.Plain_Tales_from_the_Hills,Plain Tales from the Hills,Rudyard Kipling
+237,https://www.goodreads.com/book/show/28409.The_Masterpiece,The Masterpiece,Émile Zola
+238,https://www.goodreads.com/book/show/922862.A_House_to_Let,A House to Let,Charles Dickens
+239,https://www.goodreads.com/book/show/194366.The_Return_of_Sherlock_Holmes,"The Return of Sherlock Holmes (Sherlock Holmes, #6)",Arthur Conan Doyle
+240,https://www.goodreads.com/book/show/45685.The_Canterville_Ghost,The Canterville Ghost,Oscar Wilde
+241,https://www.goodreads.com/book/show/180617.Pinocchio,Pinocchio,Carlo Collodi
+242,https://www.goodreads.com/book/show/45793.The_Murders_in_the_Rue_Morgue,"The Murders in the Rue Morgue: The Dupin Tales (C. Auguste Dupin, #1-3)",Edgar Allan Poe
+243,https://www.goodreads.com/book/show/391729.The_Tell_Tale_Heart_and_Other_Writings,The Tell-Tale Heart and Other Writings,Edgar Allan Poe
+244,https://www.goodreads.com/book/show/433567.Flatland,Flatland: A Romance of Many Dimensions,Edwin A. Abbott
+245,https://www.goodreads.com/book/show/280455.The_Gentle_Spirit,The Gentle Spirit,Fyodor Dostoevsky
+246,https://www.goodreads.com/book/show/773534.Belinda,Belinda,Maria Edgeworth
+247,https://www.goodreads.com/book/show/275247.Little_Lord_Fauntleroy,Little Lord Fauntleroy,Frances Hodgson Burnett
+248,https://www.goodreads.com/book/show/782188.Misericordia,Misericordia,Benito Pérez Galdós
+249,https://www.goodreads.com/book/show/223175.The_Master_of_Ballantrae,The Master of Ballantrae,Robert Louis Stevenson
+250,https://www.goodreads.com/book/show/682681.She,"She: A History of Adventure (She, #1)",H. Rider Haggard
+251,https://www.goodreads.com/book/show/1008335.The_Crime_of_Father_Amaro,The Crime of Father Amaro,Eça de Queirós
+252,https://www.goodreads.com/book/show/467111.The_Hand_of_Ethelberta,The Hand of Ethelberta,Thomas Hardy
+253,https://www.goodreads.com/book/show/267104.He_Knew_He_Was_Right,He Knew He Was Right,Anthony Trollope
+254,https://www.goodreads.com/book/show/616052.On_the_Eve,On the Eve,Ivan Turgenev
+255,https://www.goodreads.com/book/show/47059.The_Marble_Faun,The Marble Faun,Nathaniel Hawthorne
+256,https://www.goodreads.com/book/show/550655.La_mare_au_diable,La mare au diable,George Sand
+257,https://www.goodreads.com/book/show/42573.The_Water_Babies,The Water Babies,Charles Kingsley
+258,https://www.goodreads.com/book/show/777108.Armadale,Armadale,Wilkie Collins
+259,https://www.goodreads.com/book/show/543686.Rob_Roy,Rob Roy,Walter Scott
+260,https://www.goodreads.com/book/show/149789.The_Last_Chronicle_of_Barset,The Last Chronicle of Barset (Chronicles of Barsetshire #6),Anthony Trollope
+261,https://www.goodreads.com/book/show/16902.Walden,Walden,Henry David Thoreau
+262,https://www.goodreads.com/book/show/246414.Pierre_et_Jean,Pierre et Jean,Guy de Maupassant
+263,https://www.goodreads.com/book/show/189746.News_from_Nowhere,News from Nowhere,William Morris
+264,https://www.goodreads.com/book/show/538845.Quo_Vadis,Quo Vadis,Henryk Sienkiewicz
+265,https://www.goodreads.com/book/show/856226.Roderick_Hudson,Roderick Hudson,Henry James
+266,https://www.goodreads.com/book/show/91582.Lady_Susan,Lady Susan,Jane Austen
+267,https://www.goodreads.com/book/show/203220.Les_Fleurs_du_Mal,Les Fleurs du Mal,Charles Baudelaire
+268,https://www.goodreads.com/book/show/355034.The_Temptation_of_St_Antony,The Temptation of St. Antony,Gustave Flaubert
+269,https://www.goodreads.com/book/show/99300.The_Yellow_Wallpaper_and_Other_Stories,The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman
+270,https://www.goodreads.com/book/show/246546.An_Old_Fashioned_Girl,An Old-Fashioned Girl,Louisa May Alcott
+271,https://www.goodreads.com/book/show/675037.The_Odd_Women,The Odd Women,George Gissing
+272,https://www.goodreads.com/book/show/373925.Sweeney_Todd,Sweeney Todd: The Demon Barber of Fleet Street,Stephen Sondheim
+273,https://www.goodreads.com/book/show/7505716-alice-s-adventures-in-wonderland-other-stories,Alice's Adventures in Wonderland & Other Stories,Lewis Carroll
+274,https://www.goodreads.com/book/show/24874326-lord-arthur-savile-s-crime,Lord Arthur Savile's Crime,Oscar Wilde
+275,https://www.goodreads.com/book/show/699484.The_Heart_of_Mid_Lothian,The Heart of Mid-Lothian,Walter Scott
+276,https://www.goodreads.com/book/show/200337.The_Lady_or_the_Tiger_And_the_Discourager_of_Hesitancy,"The Lady or the Tiger? And, the Discourager of Hesitancy",Frank R. Stockton
+277,https://www.goodreads.com/book/show/50396.Northanger_Abbey_Lady_Susan_The_Watsons_Sanditon,"Northanger Abbey, Lady Susan, The Watsons, Sanditon",Jane Austen
+278,https://www.goodreads.com/book/show/11946938-snow-white,Snow White,Jacob Grimm
+279,https://www.goodreads.com/book/show/22158237-the-red-room,The Red Room,H.G. Wells
+280,https://www.goodreads.com/book/show/2884337-the-heroic-slave,The Heroic Slave,Frederick Douglass
+281,https://www.goodreads.com/book/show/306107.A_Gathering_of_Days,"A Gathering of Days: A New England Girl's Journal, 1830-32",Joan W. Blos
+282,https://www.goodreads.com/book/show/12042181-racconti-fantastici,Racconti fantastici,Iginio Ugo Tarchetti
+283,https://www.goodreads.com/book/show/415047.The_Complete_Tales_of_Edgar_Allan_Poe,The Complete Tales of Edgar Allan Poe,Edgar Allan Poe
+284,https://www.goodreads.com/book/show/2360690.Redgauntlet,Redgauntlet,Walter Scott
+285,https://www.goodreads.com/book/show/900765.The_History_of_Henry_Esmond_Esq_,"The History of Henry Esmond, Esq.",William Makepeace Thackeray
+286,https://www.goodreads.com/book/show/242589.Orley_Farm,Orley Farm,Anthony Trollope
+287,https://www.goodreads.com/book/show/2452383.The_Chimes,The Chimes,Charles Dickens
+288,https://www.goodreads.com/book/show/6328870-catherine,Catherine: A Story,William Makepeace Thackeray
+289,https://www.goodreads.com/book/show/17698.The_Cossacks,The Cossacks,Leo Tolstoy
+290,https://www.goodreads.com/book/show/1497611.The_History_of_Pendennis,"The History of Pendennis: His Fortunes and Misfortunes, His Friends and His Greatest Enemy",William Makepeace Thackeray
+291,https://www.goodreads.com/book/show/28458.Sketches_from_a_Hunter_s_Album,Sketches from a Hunter's Album,Ivan Turgenev
+292,https://www.goodreads.com/book/show/87635.Confessions_of_an_English_Opium_Eater,Confessions of an English Opium Eater,Thomas de Quincey
+293,https://www.goodreads.com/book/show/1330086.Aus_dem_Leben_eines_Taugenichts,Aus dem Leben eines Taugenichts,Joseph von Eichendorff
+294,https://www.goodreads.com/book/show/28382.Diary_of_a_Madman_and_Other_Stories,Diary of a Madman and Other Stories,Nikolai Gogol
+295,https://www.goodreads.com/book/show/12308.Tales_and_Sketches,Tales and Sketches,Nathaniel Hawthorne
+296,https://www.goodreads.com/book/show/174198.The_Country_of_the_Pointed_Firs_and_Other_Stories,The Country of the Pointed Firs and Other Stories,Sarah Orne Jewett
+297,https://www.goodreads.com/book/show/35221.The_Red_Badge_of_Courage_and_Other_Stories,The Red Badge of Courage and Other Stories,Stephen Crane
+298,https://www.goodreads.com/book/show/139987.The_Snow_Queen,The Snow Queen,Hans Christian Andersen
+299,https://www.goodreads.com/book/show/400592.In_the_Cage,In the Cage,Henry James
+300,https://www.goodreads.com/book/show/135746.Wessex_Tales,Wessex Tales,Thomas Hardy
+301,https://www.goodreads.com/book/show/3532.First_Love,First Love,Ivan Turgenev
+302,https://www.goodreads.com/book/show/806787.Late_Victorian_Gothic_Tales,Late Victorian Gothic Tales,Roger Luckhurst
+303,https://www.goodreads.com/book/show/7911.Five_Little_Peppers_and_How_They_Grew,"Five Little Peppers and How They Grew (Five Little Peppers, #1)",Margaret Sidney
+304,https://www.goodreads.com/book/show/36820.The_Roots_of_the_Mountains,The Roots of the Mountains,William Morris
+305,https://www.goodreads.com/book/show/1407178.The_Romance_of_a_Shop,The Romance of a Shop,Amy Levy
+306,https://www.goodreads.com/book/show/630983.The_Mysteries_of_Paris,The Mysteries of Paris,Eugène Sue
+307,https://www.goodreads.com/book/show/86658.The_Secret_Agent,The Secret Agent,Joseph Conrad
+308,https://www.goodreads.com/book/show/383204.Lois_the_Witch,Lois the Witch,Elizabeth Gaskell
+309,https://www.goodreads.com/book/show/261689.The_Grand_Sophy,The Grand Sophy,Georgette Heyer
+310,https://www.goodreads.com/book/show/273993.The_Mysteries_of_London_Vol_I,"The Mysteries of London, Vol. I",George W.M. Reynolds
+311,https://www.goodreads.com/book/show/403733.Tales_of_the_Alhambra,Tales of the Alhambra,Washington Irving
+312,https://www.goodreads.com/book/show/821176.The_Damnation_of_Theron_Ware,The Damnation of Theron Ware: Or Illumination,Harold Frederic
+313,https://www.goodreads.com/book/show/9488435-the-gadfly,The Gadfly,Ethel Lilian Voynich
+314,https://www.goodreads.com/book/show/247960.Clotel,"Clotel: or, The President's Daughter",William Wells Brown
+315,https://www.goodreads.com/book/show/1047422.The_Four_Feathers,The Four Feathers,A.E.W. Mason
+316,https://www.goodreads.com/book/show/32827.From_the_Earth_to_the_Moon,From the Earth to the Moon,Jules Verne
+317,https://www.goodreads.com/book/show/2932.Robinson_Crusoe,"Robinson Crusoe (Robinson Crusoe, #1)",Daniel Defoe
+318,https://www.goodreads.com/book/show/14707.Faust_Part_Two,"Faust, Part Two",Johann Wolfgang von Goethe
+319,https://www.goodreads.com/book/show/253878.Mademoiselle_de_Maupin,Mademoiselle de Maupin,Théophile Gautier
+320,https://www.goodreads.com/book/show/398936.Liza_of_Lambeth,Liza of Lambeth,W. Somerset Maugham
+321,https://www.goodreads.com/book/show/517570.The_Beast_in_the_Jungle,The Beast in the Jungle,Henry James
+322,https://www.goodreads.com/book/show/10222.The_Far_Pavilions,The Far Pavilions,M.M. Kaye
+323,https://www.goodreads.com/book/show/53835.The_Age_of_Innocence,The Age of Innocence,Edith Wharton
+324,https://www.goodreads.com/book/show/10920.Cold_Mountain,Cold Mountain,Charles Frazier
+325,https://www.goodreads.com/book/show/920649.An_Occurrence_at_Owl_Creek_Bridge,An Occurrence at Owl Creek Bridge,Ambrose Bierce
+326,https://www.goodreads.com/book/show/1306637.A_Group_of_Noble_Dames,A Group of Noble Dames,Thomas Hardy
+327,https://www.goodreads.com/book/show/3249115-curious-if-true,"Curious, If True: Strange Tales",Elizabeth Gaskell
+328,https://www.goodreads.com/book/show/149792.Linda_Tressel,Linda Tressel,Anthony Trollope
+329,https://www.goodreads.com/book/show/14110.The_Book_of_Snobs,The Book of Snobs,William Makepeace Thackeray
+330,https://www.goodreads.com/book/show/387749.Ben_Hur,Ben-Hur: A Tale of the Christ,Lew Wallace
+331,https://www.goodreads.com/book/show/547420.Varney_the_Vampire_Volume_III_or_The_Feast_of_Blood,"Varney the Vampire, Volume III; or, The Feast of Blood (Varney the Vampire, #3)",Thomas Peckett Prest
+332,https://www.goodreads.com/book/show/7465073-varney-the-vampire-volume-ii,"Varney the Vampire, Volume II (Varney the Vampire, #2)",Thomas Peckett Prest
+333,https://www.goodreads.com/book/show/17262519-the-black-spider,The Black Spider,Jeremias Gotthelf
+334,https://www.goodreads.com/book/show/597320.Typee,Typee: A Peep at Polynesian Life,Herman Melville
+335,https://www.goodreads.com/book/show/308644.The_Piazza_Tales,The Piazza Tales,Herman Melville
+336,https://www.goodreads.com/book/show/1980571.Nazar_n,Nazarín,Benito Pérez Galdós
+337,https://www.goodreads.com/book/show/166178.Sanditon_and_Other_Stories,Sanditon and Other Stories,Jane Austen
+338,https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes,The Complete Sherlock Holmes,Arthur Conan Doyle
+339,https://www.goodreads.com/book/show/97381.The_Queen_of_Spades_and_Other_Stories,The Queen of Spades and Other Stories,Alexander Pushkin
+340,https://www.goodreads.com/book/show/7186.La_Dame_aux_Cam_lias,La Dame aux Camélias,Alexandre Dumas fils
+341,https://www.goodreads.com/book/show/1778663.The_Open_Boat,The Open Boat,Stephen Crane
+342,https://www.goodreads.com/book/show/864386.Tales_of_Unease,Tales of Unease,Arthur Conan Doyle
+343,https://www.goodreads.com/book/show/551454.Tales_of_Hoffmann,Tales of Hoffmann,E.T.A. Hoffmann
+344,https://www.goodreads.com/book/show/104260.Indiana,Indiana,George Sand
+345,https://www.goodreads.com/book/show/82888.Dom_Casmurro,Dom Casmurro,Machado de Assis
+346,https://www.goodreads.com/book/show/128837.Elective_Affinities,Elective Affinities,Johann Wolfgang von Goethe
+347,https://www.goodreads.com/book/show/24611868-the-gilded-hour,"The Gilded Hour (The Waverly Place, #1)",Sara Donati
+348,https://www.goodreads.com/book/show/22929563-the-watchmaker-of-filigree-street,"The Watchmaker of Filigree Street (The Watchmaker of Filigree Street, #1)",Natasha Pulley
+349,https://www.goodreads.com/book/show/40209.Maggie,Maggie: A Girl of the Streets and Other Tales of New York,Stephen Crane
+350,https://www.goodreads.com/book/show/648316.Esther_Waters,Esther Waters,George Moore
+351,https://www.goodreads.com/book/show/1118206.Fortunata_and_Jacinta,Fortunata and Jacinta,Benito Pérez Galdós
+352,https://www.goodreads.com/book/show/418285.Noli_Me_T_ngere_Touch_Me_Not_,"Noli Me Tángere (Touch Me Not) (Noli Me Tángere, #1)",José Rizal
+353,https://www.goodreads.com/book/show/182086.Iola_Leroy,Iola Leroy,Frances Ellen Watkins Harper
+354,https://www.goodreads.com/book/show/5693.Selected_Stories_of_Anton_Chekhov,Selected Stories of Anton Chekhov,Anton Chekhov
+355,https://www.goodreads.com/book/show/427354.Venus_in_Furs,Venus in Furs,Leopold von Sacher-Masoch
+356,https://www.goodreads.com/book/show/5700.The_Adolescent,The Adolescent,Fyodor Dostoevsky
+357,https://www.goodreads.com/book/show/54492.The_Prisoner_of_Zenda,"The Prisoner of Zenda (The Ruritania Trilogy, #2)",Anthony Hope
+358,https://www.goodreads.com/book/show/17881.Notes_from_Underground_The_Double,Notes from Underground & The Double,Fyodor Dostoevsky
+359,https://www.goodreads.com/book/show/729704.The_Morgesons,The Morgesons,Elizabeth Stoddard
+360,https://www.goodreads.com/book/show/279221.Peer_Gynt,Peer Gynt,Henrik Ibsen
+361,https://www.goodreads.com/book/show/24874356-a-pair-of-silk-stockings,A Pair of Silk Stockings,Kate Chopin
+362,https://www.goodreads.com/book/show/9766078-the-map-of-time,The Map of Time,Félix J. Palma
+363,https://www.goodreads.com/book/show/19351490-grimm-s-fairy-tales,Grimm's Fairy Tales,Jacob Grimm
+364,https://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead,"Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead",Fyodor Dostoevsky
+365,https://www.goodreads.com/book/show/7585.Spring_s_Awakening,Spring's Awakening,Frank Wedekind
+366,https://www.goodreads.com/book/show/882162.Hester,Hester,Mrs. Oliphant
+367,https://www.goodreads.com/book/show/168655.McTeague,McTeague,Frank Norris
+368,https://www.goodreads.com/book/show/40200.The_Crimson_Petal_and_the_White,The Crimson Petal and the White,Michel Faber
+369,https://www.goodreads.com/book/show/223634.The_Master_Builder,The Master Builder,Henrik Ibsen
+370,https://www.goodreads.com/book/show/69413.La_Regenta,La Regenta,Leopoldo Alas
+371,https://www.goodreads.com/book/show/1080102.The_Yellow_Sign_and_Other_Stories,The Yellow Sign and Other Stories,Robert W. Chambers
+372,https://www.goodreads.com/book/show/87263.O_Alienista,O Alienista,Machado de Assis
+373,https://www.goodreads.com/book/show/1775471.La_Fanfarlo,La Fanfarlo,Charles Baudelaire
+374,https://www.goodreads.com/book/show/22561352-gwendolen,Gwendolen,Diana Souhami
+375,https://www.goodreads.com/book/show/45195.A_Passage_to_India,A Passage to India,E.M. Forster
+376,https://www.goodreads.com/book/show/19380.Candide,Candide,Voltaire
+377,https://www.goodreads.com/book/show/126512.The_Way_of_All_Flesh,The Way of All Flesh,Samuel Butler
+378,https://www.goodreads.com/book/show/32586.Mysteries,Mysteries,Knut Hamsun
+379,https://www.goodreads.com/book/show/125870.Billy_Budd_and_Other_Stories,Billy Budd and Other Stories,Herman Melville
+380,https://www.goodreads.com/book/show/163716.The_Complete_Fairy_Tales,The Complete Fairy Tales,Oscar Wilde
+381,https://www.goodreads.com/book/show/31171.The_Life_of_Charlotte_Bront_,The Life of Charlotte Brontë,Elizabeth Gaskell
+382,https://www.goodreads.com/book/show/1009216.The_Dead_Secret,The Dead Secret,Wilkie Collins
+383,https://www.goodreads.com/book/show/781148.The_Lifted_Veil_Brother_Jacob,The Lifted Veil / Brother Jacob,George Eliot
+384,https://www.goodreads.com/book/show/1396182.Berenice,Berenice,Edgar Allan Poe
+385,https://www.goodreads.com/book/show/364985.Rappaccini_s_Daughter,Rappaccini's Daughter,Nathaniel Hawthorne
+386,https://www.goodreads.com/book/show/20567.Scenes_of_Clerical_Life,Scenes of Clerical Life,George Eliot
+387,https://www.goodreads.com/book/show/18079837-mrs-lincoln-s-rival,Mrs. Lincoln's Rival,Jennifer Chiaverini
+388,https://www.goodreads.com/book/show/537072.The_Overcoat_and_Other_Tales_of_Good_and_Evil,The Overcoat and Other Tales of Good and Evil,Nikolai Gogol
+389,https://www.goodreads.com/book/show/292275.Hedda_Gabler,Hedda Gabler,Henrik Ibsen
+390,https://www.goodreads.com/book/show/294560.Mosses_from_an_Old_Manse,Mosses from an Old Manse,Nathaniel Hawthorne
+391,https://www.goodreads.com/book/show/866301.Felix_Holt,Felix Holt: The Radical,George Eliot
+392,https://www.goodreads.com/book/show/179073.The_Open_Boat_and_Other_Stories,The Open Boat and Other Stories,Stephen Crane
+393,https://www.goodreads.com/book/show/2141817.The_Cranford_Chronicles,The Cranford Chronicles,Elizabeth Gaskell
+394,https://www.goodreads.com/book/show/960450.Transformation,Transformation,Mary Wollstonecraft Shelley
+395,https://www.goodreads.com/book/show/27494.Leaves_of_Grass,Leaves of Grass,Walt Whitman
+396,https://www.goodreads.com/book/show/4492683-the-pilgrims,The Pilgrims,Mary Wollstonecraft Shelley
+397,https://www.goodreads.com/book/show/2220037.After_London,"After London: or, Wild England",Richard Jefferies
+398,https://www.goodreads.com/book/show/2270649.The_House_of_the_Wolfings,The House of the Wolfings,William Morris
+399,https://www.goodreads.com/book/show/42641.Resurrection,Resurrection,Leo Tolstoy
+400,https://www.goodreads.com/book/show/7326529-varney-the-vampire-volume-i,"Varney the Vampire, Volume I (Varney the Vampire, #1)",Thomas Peckett Prest
+401,https://www.goodreads.com/book/show/1128994.The_Trumpet_Major,The Trumpet-Major,Thomas Hardy
+402,https://www.goodreads.com/book/show/1178424.Early_Romances_In_Prose_And_Verse,Early Romances In Prose And Verse,William Morris
+403,https://www.goodreads.com/book/show/330264.The_Marquise_of_O_and_Other_Stories,The Marquise of O— and Other Stories,Heinrich von Kleist
+404,https://www.goodreads.com/book/show/2160438.The_Wheels_of_Chance,The Wheels of Chance: A Bicycling Idyll,H.G. Wells
+405,https://www.goodreads.com/book/show/825901.Under_the_Greenwood_Tree,Under the Greenwood Tree,Thomas Hardy
+406,https://www.goodreads.com/book/show/264158.The_Raven,The Raven,Edgar Allan Poe
+407,https://www.goodreads.com/book/show/3218173-the-well-at-the-world-s-end,The Well at the World's End,William Morris
+408,https://www.goodreads.com/book/show/119042.My_Brilliant_Career,My Brilliant Career,Miles Franklin
+409,https://www.goodreads.com/book/show/13753164-the-female-detective,The Female Detective,Andrew Forrester
+410,https://www.goodreads.com/book/show/5246.Ethan_Frome,Ethan Frome,Edith Wharton
+411,https://www.goodreads.com/book/show/775366.The_Ambassadors,The Ambassadors,Henry James
+412,https://www.goodreads.com/book/show/1306603.A_Laodicean,A Laodicean: A Story of Today (Everyman Library),Thomas Hardy
+413,https://www.goodreads.com/book/show/1140698.Elizabeth_and_Her_German_Garden,Elizabeth and Her German Garden,Elizabeth von Arnim
+414,https://www.goodreads.com/book/show/472966.The_Vampyre,The Vampyre,John William Polidori
+415,https://www.goodreads.com/book/show/16210.Daisy_Miller_and_Washington_Square,Daisy Miller and Washington Square,Henry James
+416,https://www.goodreads.com/book/show/571938.Woyzeck,Woyzeck,Georg Büchner
+417,https://www.goodreads.com/book/show/537094.The_Overcoat,The Overcoat,Nikolai Gogol
+418,https://www.goodreads.com/book/show/246035.An_Enemy_of_the_People,An Enemy of the People,Henrik Ibsen
+419,https://www.goodreads.com/book/show/462182.Rip_Van_Winkle,Rip Van Winkle,Washington Irving
+420,https://www.goodreads.com/book/show/355730.The_Haunted_Hotel,The Haunted Hotel: A Mystery of Modern Venice,Wilkie Collins
+421,https://www.goodreads.com/book/show/151447.As_a_Man_Grows_Older,As a Man Grows Older,Italo Svevo
+422,https://www.goodreads.com/book/show/69775.Los_pazos_de_Ulloa,Los pazos de Ulloa,Emilia Pardo Bazán
+423,https://www.goodreads.com/book/show/679367.Pepita_Jim_nez,Pepita Jiménez,Juan Valera
+424,https://www.goodreads.com/book/show/1481415.Castle_Richmond,Castle Richmond,Anthony Trollope
+425,https://www.goodreads.com/book/show/294251.Green_Henry,Green Henry,Gottfried Keller
+426,https://www.goodreads.com/book/show/153875.Queen_Margot,"Queen Margot (The Last Valois, #1)",Alexandre Dumas
+427,https://www.goodreads.com/book/show/602398.Tha_s,Thaïs,Anatole France
+428,https://www.goodreads.com/book/show/712958.The_Monastery,The Monastery,Walter Scott
+429,https://www.goodreads.com/book/show/608762.The_Absentee,The Absentee,Maria Edgeworth
+430,https://www.goodreads.com/book/show/32831.The_Mysterious_Island,"The Mysterious Island (Captain Nemo, #3)",Jules Verne
+431,https://www.goodreads.com/book/show/194649.The_Law_and_the_Lady,The Law and the Lady,Wilkie Collins
+432,https://www.goodreads.com/book/show/1389743.I_Malavoglia,I Malavoglia,Giovanni Verga
+433,https://www.goodreads.com/book/show/28462.Spring_Torrents,Spring Torrents,Ivan Turgenev
+434,https://www.goodreads.com/book/show/326280.Max_Havelaar_or_the_Coffee_Auctions_of_the_Dutch_Trading_Company,"Max Havelaar, or the Coffee Auctions of the Dutch Trading Company",Multatuli
+435,https://www.goodreads.com/book/show/251290.Castle_Rackrent,Castle Rackrent,Maria Edgeworth
+436,https://www.goodreads.com/book/show/9999107-the-american-heiress,The American Heiress,Daisy Goodwin
+437,https://www.goodreads.com/book/show/626363.Marius_the_Epicurean,Marius the Epicurean,Walter Pater
+438,https://www.goodreads.com/book/show/141077.The_Kreutzer_Sonata,The Kreutzer Sonata,Leo Tolstoy
+439,https://www.goodreads.com/book/show/28417.La_B_te_humaine,La Bête humaine,Émile Zola
+440,https://www.goodreads.com/book/show/880072.Some_Experiences_of_an_Irish_R_M_,Some Experiences of an Irish R.M.,Edith Œnone Somerville
+441,https://www.goodreads.com/book/show/267117.The_American_Senator,The American Senator,Anthony Trollope
+442,https://www.goodreads.com/book/show/12194.Lord_Jim,Lord Jim,Joseph Conrad
+443,https://www.goodreads.com/book/show/397844.The_Masque_of_the_Black_Tulip,"The Masque of the Black Tulip (Pink Carnation, #2)",Lauren Willig
+444,https://www.goodreads.com/book/show/59142.Eug_nie_Grandet,Eugénie Grandet,Honoré de Balzac
+445,https://www.goodreads.com/book/show/28420.The_Earth,The Earth,Émile Zola
+446,https://www.goodreads.com/book/show/14679.Love,Love,Stendhal
+447,https://www.goodreads.com/book/show/24601.Paris_Spleen,Paris Spleen,Charles Baudelaire
+448,https://www.goodreads.com/book/show/10752433-the-modern-griselda---a-tale,THE MODERN GRISELDA - A Tale,Maria Edgeworth
+449,https://www.goodreads.com/book/show/8112647-dr-heidegger-s-experiment,Dr. Heidegger's Experiment,Nathaniel Hawthorne
+450,https://www.goodreads.com/book/show/6056360-umrao-jan-ada,Umrao Jan Ada / امراؤ جان ادا,Mirza Mohammad Hadi Ruswa
+451,https://www.goodreads.com/book/show/5519394-eve-s-diary,Eve's Diary,Mark Twain
+452,https://www.goodreads.com/book/show/28970017-the-mysteries-of-london-volume-3,"The Mysteries Of London, Volume 3",George W.M. Reynolds
+453,https://www.goodreads.com/book/show/17333230-the-luminaries,The Luminaries,Eleanor Catton
+454,https://www.goodreads.com/book/show/1104445.Old_Maids,Old Maids: Short Stories by Nineteenth Century U.S. Women Writers,Susan Koppelman
+455,https://www.goodreads.com/book/show/33551263-despised-desired,"Despised & Desired: The Marquess' Passionate Wife (Love's Second Chance: Tales of Damsels and Knights, #1)",Bree Wolf
+456,https://www.goodreads.com/book/show/56319716-ghosts-of-the-chit-chat,Ghosts of the Chit-Chat,Robert Lloyd Parry
+457,https://www.goodreads.com/book/show/21207970-walladmor,Walladmor: And Now Freely Translated from the German into English. In Two Volumes. Vol. II.,Thomas de Quincey
+458,https://www.goodreads.com/book/show/21212539-walladmor,Walladmor: And Now Freely Translated from the German into English. In Two Volumes. Vol. I.,Thomas de Quincey
+459,https://www.goodreads.com/book/show/10975557-a-child-s-dream-of-a-star,A Child's Dream of a Star,Charles Dickens
+460,https://www.goodreads.com/book/show/84730.Beat_to_Quarters,Beat to Quarters,C.S. Forester
+461,https://www.goodreads.com/book/show/59808294-secrets-of-the-nile,"Secrets of the Nile (Lady Emily, #16)",Tasha Alexander
+462,https://www.goodreads.com/book/show/87346.The_Cherry_Orchard,The Cherry Orchard,Anton Chekhov
+463,https://www.goodreads.com/book/show/6981444-the-ensouled-violin,The Ensouled Violin,Helena Petrovna Blavatsky
+464,https://www.goodreads.com/book/show/50815147-queens-of-the-abyss,Queens of the Abyss: Lost Stories from the Women of the Weird,Mike Ashley
+465,https://www.goodreads.com/book/show/80939.When_the_Sleeper_Wakes,When the Sleeper Wakes,H.G. Wells
+466,https://www.goodreads.com/book/show/3087.A_Room_with_a_View,A Room with a View,E.M. Forster
+467,https://www.goodreads.com/book/show/9706884-le-v-u-d-une-morte,Le Vœu d'une morte,Émile Zola
+468,https://www.goodreads.com/book/show/33785011-ghostly-tales,Ghostly Tales: Spine-Chilling Stories of the Victorian Age,Chronicle Books
+469,https://www.goodreads.com/book/show/3027439-the-haunted-man-and-the-ghost-s-bargain,The Haunted Man and the Ghost's Bargain,Charles Dickens
+470,https://www.goodreads.com/book/show/56164034-the-best-laid-plans,The Best-Laid Plans,Sarah M. Eden
+471,https://www.goodreads.com/book/show/7118988-dear-faustina,Dear Faustina,Rhoda Broughton
+472,https://www.goodreads.com/book/show/60500088-the-bride-of-blackfriars-lane,The Bride of Blackfriars Lane (Blackfriars Lane #2),Michelle Griep
+473,https://www.goodreads.com/book/show/60596112-keeper-of-enchanted-rooms,"Keeper of Enchanted Rooms (Whimbrel House, #1)",Charlie N. Holmberg
+474,https://www.goodreads.com/book/show/190344.First_Term_at_Malory_Towers,"First Term at Malory Towers (Malory Towers, #1)",Enid Blyton
+475,https://www.goodreads.com/book/show/77390.Anne_of_Avonlea,"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery
+476,https://www.goodreads.com/book/show/17477.The_Wishing_Chair_Collection,"The Wishing Chair Collection: Three Exciting Stories in One.  The adventures of the Wishing Chair, The Wishing Chair Again, More Wishing Chair Tales (Enid Blyton)",Enid Blyton
+477,https://www.goodreads.com/book/show/14784915-the-magellan-fallacy,The Magellan Fallacy: Globalization and the Emergence of Asian and African Literature in Spanish,Adam Lifshey
+478,https://www.goodreads.com/book/show/420275.The_Necklace,The Necklace,Guy de Maupassant
+479,https://www.goodreads.com/book/show/1248728.The_Ball_At_Sceaux,The Ball At Sceaux,Honoré de Balzac
+480,https://www.goodreads.com/book/show/1471235.Pelham_or_Adventures_of_a_Gentleman,Pelham or Adventures of a Gentleman,Edward Bulwer-Lytton
+481,https://www.goodreads.com/book/show/60439685-to-capture-his-heart,"To Capture His Heart (Matchmakers, #2)",Nancy Campbell Allen
+482,https://www.goodreads.com/book/show/98906.The_Gilded_Age,The Gilded Age,Mark Twain
+483,https://www.goodreads.com/book/show/13590708-the-lighthouse-road,"The Lighthouse Road (Eide Family, #1)",Peter Geye
+484,https://www.goodreads.com/book/show/40873273-snow-flower-and-the-secret-fan,Snow Flower and the Secret Fan,Lisa See
+485,https://www.goodreads.com/book/show/6322517-oh-whistle-and-i-ll-come-to-you-my-lad,"Oh, Whistle, and I'll Come to You, My Lad",M.R. James
+486,https://www.goodreads.com/book/show/868668.A_Book_of_Nonsense,A Book of Nonsense,Edward Lear
+487,https://www.goodreads.com/book/show/2292060.Varney_the_Vampire_or_The_Feast_of_Blood,"Varney the Vampire; or, The Feast of Blood",James Malcolm Rymer
+488,https://www.goodreads.com/book/show/6373021-john-sherwood-ironmaster,"John Sherwood, Ironmaster",S. Weir Mitchell
+489,https://www.goodreads.com/book/show/611859.Elsie_s_Endless_Wait,Elsie's Endless Wait (A Life of Faith: Elsie Dinsmore #1),Martha Finley
+490,https://www.goodreads.com/book/show/1711371.The_Fur_Country,The Fur Country,Jules Verne
+491,https://www.goodreads.com/book/show/57686219-once-upon-an-irritatingly-magical-kiss,"Once Upon an Irritatingly Magical Kiss (The Whickertons in Love, #3)",Bree Wolf
+492,https://www.goodreads.com/book/show/10067762-the-goodness-of-st-rocque-and-other-stories,The Goodness of St. Rocque; And Other Stories,Alice Dunbar-Nelson
+493,https://www.goodreads.com/book/show/29691220-erleston-glen,Erleston Glen: A Lancashire Story of the Sixteenth Century,Alice O'hanlon
+494,https://www.goodreads.com/book/show/60931.Kindred,Kindred,Octavia E. Butler
+495,https://www.goodreads.com/book/show/4572035-le-capitaine-paul,Le Capitaine Paul,Alexandre Dumas
+496,https://www.goodreads.com/book/show/1450322.The_Dolliver_Romance_and_Other_Pieces,The Dolliver Romance and Other Pieces: Tales and Sketches,Nathaniel Hawthorne
+497,https://www.goodreads.com/book/show/7177978-fiction,Fiction: A Pocket Anthology: Third Edition,R.S. Gwynn
+498,https://www.goodreads.com/book/show/32851.The_Blockade_Runners,The Blockade Runners,Jules Verne
+499,https://www.goodreads.com/book/show/26114130-everfair,Everfair,Nisi Shawl
+500,https://www.goodreads.com/book/show/4064577-men-s-wives,Men's Wives,William Makepeace Thackeray
+501,https://www.goodreads.com/book/show/91289.The_Hummingbird_s_Daughter,The Hummingbird's Daughter,Luis Alberto Urrea
+502,https://www.goodreads.com/book/show/6121115-the-brown-owl,The Brown Owl: A Fairy Tale,Ford Madox Ford
+503,https://www.goodreads.com/book/show/875623.Jerusalem_Delivered,Jerusalem Delivered,Torquato Tasso
+504,https://www.goodreads.com/book/show/58810867-the-surgeon-s-daughter,The Surgeon's Daughter (Nora Beady #2),Audrey  Blake
+505,https://www.goodreads.com/book/show/43252694-fled,Fled,Meg Keneally
+506,https://www.goodreads.com/book/show/1847171.The_Castle_on_the_Hill,The Castle on the Hill,Elizabeth Goudge
+507,https://www.goodreads.com/book/show/1980950.A_Master_of_Mysteries,A Master of Mysteries,L.T. Meade
+508,https://www.goodreads.com/book/show/59078358-the-squirrel-inn,The Squirrel Inn,Frank R. Stockton
+509,https://www.goodreads.com/book/show/1610015.The_New_Magdalen,The New Magdalen,Wilkie Collins
+510,https://www.goodreads.com/book/show/54245639-spellmaker,"Spellmaker (Spellbreaker Duology, #2)",Charlie N. Holmberg
+511,https://www.goodreads.com/book/show/5145600-violets-and-other-tales,Violets and Other Tales,Alice Dunbar-Nelson
+512,https://www.goodreads.com/book/show/54304031-yellow-wife,Yellow Wife,Sadeqa Johnson
+513,https://www.goodreads.com/book/show/49338237-spellbreaker,"Spellbreaker (Spellbreaker Duology, #1)",Charlie N. Holmberg
+514,https://www.goodreads.com/book/show/3243797-the-naulahka---a-story-of-east-and-west,The Naulahka - A Story Of East And West,Rudyard Kipling
+515,https://www.goodreads.com/book/show/8204237-a-daughter-of-raasay,A Daughter of Raasay: A Tale of the '45,William MacLeod Raine
+516,https://www.goodreads.com/book/show/1967231.Austen,Austen: Persuasion (Macmillan Master Guides),Judy Simons
+517,https://www.goodreads.com/book/show/19323414-follow-my-leader-the-boys-of-templeton,Follow My leader the Boys of Templeton,Talbot Baines Reed
+518,https://www.goodreads.com/book/show/12287356-schoolboy-honour,Schoolboy Honour: A Tale of Halminster College,Henry Cadwallader Adams
+519,https://www.goodreads.com/book/show/21276862-roger-ingleton-minor,"Roger Ingleton, Minor",Talbot Baines Reed
+520,https://www.goodreads.com/book/show/10108873-reginald-cruden,Reginald Cruden: A Tale of City Life,Talbot Baines Reed
+521,https://www.goodreads.com/book/show/10086485-the-cock-house-at-fellsgarth,The Cock-House at Fellsgarth,Talbot Baines Reed
+522,https://www.goodreads.com/book/show/5025830-the-fifth-form-at-st-dominic-s,The Fifth Form at St. Dominic's,Talbot Baines Reed
+523,https://www.goodreads.com/book/show/5686003-the-willoughby-captains,The Willoughby Captains,Talbot Baines Reed
+524,https://www.goodreads.com/book/show/2812020-eric-or-little-by-little,"Eric, or Little by Little",Frederic W. Farrar
+525,https://www.goodreads.com/book/show/1939823.Tom_Dick_And_Harry,"Tom, Dick And Harry",Talbot Baines Reed
+526,https://www.goodreads.com/book/show/25476953-the-pillars-of-the-house-vol-ii,"The Pillars of the House, Vol. II (of 2)",Charlotte Mary Yonge
+527,https://www.goodreads.com/book/show/20620795-the-stokesley-secret,The Stokesley Secret,Charlotte Mary Yonge
+528,https://www.goodreads.com/book/show/19041224-the-pillars-of-the-house-v1,"The Pillars of the House, V1",Charlotte Mary Yonge
+529,https://www.goodreads.com/book/show/21119408-chantry-house,Chantry House,Charlotte Mary Yonge
+530,https://www.goodreads.com/book/show/19278453-the-long-vacation,The Long Vacation,Charlotte Mary Yonge
+531,https://www.goodreads.com/book/show/21073816-nuttie-s-father,Nuttie's Father,Charlotte Mary Yonge
+532,https://www.goodreads.com/book/show/4546316-henrietta-s-wish,Henrietta's Wish,Charlotte Mary Yonge
+533,https://www.goodreads.com/book/show/7971079-abbeychurch,Abbeychurch,Charlotte Mary Yonge
+534,https://www.goodreads.com/book/show/611861.Elsie_Dinsmore,Elsie Dinsmore (The Original Elsie Classics #1),Martha Finley
+535,https://www.goodreads.com/book/show/2484891.The_Trial,The Trial,Charlotte Mary Yonge
+536,https://www.goodreads.com/book/show/19271478-the-two-guardians-or-home-in-this-world,"The Two Guardians or, Home in This World",Charlotte Mary Yonge
+537,https://www.goodreads.com/book/show/1383791.The_Heir_of_Redclyffe,The Heir of Redclyffe,Charlotte Mary Yonge
+538,https://www.goodreads.com/book/show/18722021-friarswood-post-office,Friarswood Post Office,Charlotte Mary Yonge
+539,https://www.goodreads.com/book/show/1054770.Elsie_s_Holidays_at_Roselands,Elsie's Holidays at Roselands (The Original Elsie Classics #2),Martha Finley
+540,https://www.goodreads.com/book/show/1017394.The_Little_Duke,The Little Duke,Charlotte Mary Yonge
+541,https://www.goodreads.com/book/show/611947.The_Daisy_Chain_Or_Aspirations,"The Daisy Chain, Or, Aspirations: A Family Chronicle",Charlotte Mary Yonge
+542,https://www.goodreads.com/book/show/19527865-the-castle-builders,The Castle Builders,Charlotte Mary Yonge
+543,https://www.goodreads.com/book/show/9578091-the-three-brides,The Three Brides,Charlotte Mary Yonge
+544,https://www.goodreads.com/book/show/1420762.The_Rosary,The Rosary,Florence Louisa Barclay
+545,https://www.goodreads.com/book/show/855903.The_Bird_in_the_Tree,"The Bird in the Tree (Eliots of Damerosehay, #1)",Elizabeth Goudge
+546,https://www.goodreads.com/book/show/1307024.Bonnie_Prince_Charlie,Bonnie Prince Charlie,G.A. Henty
+547,https://www.goodreads.com/book/show/267867.The_Chouans,The Chouans,Honoré de Balzac
+548,https://www.goodreads.com/book/show/205636.The_Dean_s_Watch,The Dean's Watch,Elizabeth Goudge
+549,https://www.goodreads.com/book/show/185528.Green_Dolphin_Street,Green Dolphin Street,Elizabeth Goudge
+550,https://www.goodreads.com/book/show/44647940-new-faces-and-old,New Faces and Old: Short Stories,Francis J. Finn
+551,https://www.goodreads.com/book/show/26288872-his-first-and-last-appearance,His First and Last Appearance,Francis J. Finn
+552,https://www.goodreads.com/book/show/37470115-mostly-boys,Mostly Boys: Short Stories,Francis J. Finn
+553,https://www.goodreads.com/book/show/25688421-but-thy-love-and-thy-grace,But Thy Love and Thy Grace,Francis J. Finn
+554,https://www.goodreads.com/book/show/24222354-that-office-boy,That Office Boy,Francis J. Finn
+555,https://www.goodreads.com/book/show/14381890-ethel-s-book-or-tales-of-the-angels,"Ethel's Book Or, Tales of the Angels",Frederick William Faber
+556,https://www.goodreads.com/book/show/8636309-claude-lightfoot,Claude Lightfoot: Or How the Problem Was Solved,Francis J. Finn
+557,https://www.goodreads.com/book/show/6382167-the-fairy-of-the-snows,The Fairy of the Snows,Francis J. Finn
+558,https://www.goodreads.com/book/show/1976942.Harry_Dee,Harry Dee: Or Working it Out (Tom Playfair #3),Francis J. Finn
+559,https://www.goodreads.com/book/show/1976940.Percy_Wynn,Percy Wynn: Or Making a Boy of Him (Tom Playfair #2),Francis J. Finn
+560,https://www.goodreads.com/book/show/1976918.Tom_Playfair,Tom Playfair: Or Making a Start (Tom Playfair #1),Francis J. Finn
+561,https://www.goodreads.com/book/show/3030579-the-dove-in-the-eagle-s-nest,The Dove in the Eagle's Nest,Charlotte Mary Yonge
+562,https://www.goodreads.com/book/show/1108883.Two_Penniless_Princesses,Two Penniless Princesses,Charlotte Mary Yonge
+563,https://www.goodreads.com/book/show/30945719-ready-and-willing-or-guy-powers-watchword,"Ready and Willing; Or, Guy Powers' Watchword",J T Hopkins
+564,https://www.goodreads.com/book/show/21133246-dynevor-terrace,"Dynevor Terrace: or, the clue of life -Volume 2",Charlotte Mary Yonge
+565,https://www.goodreads.com/book/show/19171100-sowing-and-sewing-a-sexagesima-story,Sowing and Sewing A Sexagesima Story,Charlotte Mary Yonge
+566,https://www.goodreads.com/book/show/21115665-dynevor-terrace,"Dynevor Terrace: or, the clue of life - Volume 1",Charlotte Mary Yonge
+567,https://www.goodreads.com/book/show/18894513-the-carved-cupboard,The Carved Cupboard,Amy Le Feuvre
+568,https://www.goodreads.com/book/show/6626581-the-courage-of-the-commonplace,The Courage of the Commonplace,Mary Raymond Shipman Andrews
+569,https://www.goodreads.com/book/show/21369397-my-young-alcides,My Young Alcides,Charlotte Mary Yonge
+570,https://www.goodreads.com/book/show/7731241-probable-sons,Probable Sons,Amy Le Feuvre
+571,https://www.goodreads.com/book/show/22925782-whispering-tongues,Whispering Tongues,Homer Greene
+572,https://www.goodreads.com/book/show/11092873-the-haunted-room,The Haunted Room: A Tale,A.L.O.E.
+573,https://www.goodreads.com/book/show/9735609-the-battle,The Battle,A.L.O.E.
+574,https://www.goodreads.com/book/show/2608171-the-christmas-angel,The Christmas Angel,Abbie Farwell Brown
+575,https://www.goodreads.com/book/show/597518.The_Giant_Killer,The Giant Killer,A.L.O.E.
+576,https://www.goodreads.com/book/show/59101380-esther-s-charge-a-story-for-girls,Esther's Charge; A Story for Girls,Evelyn Everett-Green
+577,https://www.goodreads.com/book/show/56676433-precepts-in-practice-or-stories-illustrating-the-proverbs,"Precepts in Practice; / or, Stories Illustrating the Proverbs",A.L.O.E.
+578,https://www.goodreads.com/book/show/45218853-after-years,After Years: A Story of Trials and Triumphs,Ives Warren Bradley
+579,https://www.goodreads.com/book/show/57427028-by-uphill-paths,By Uphill Paths,Elizabeth Van Sommer
+580,https://www.goodreads.com/book/show/30492879-tom-tracy-or-whose-is-the-victory,"Tom Tracy Or, Whose Is The Victory?: A Tale For The Young",A H K
+581,https://www.goodreads.com/book/show/29177561-the-lyon-s-den-and-its-eight-young-lyons,The Lyon's Den And Its Eight Young Lyons,Yotty Osborn
+582,https://www.goodreads.com/book/show/27712462-culm-rock,Culm Rock,Glance Gaylord
+583,https://www.goodreads.com/book/show/15100913-amos-huntingdon,Amos Huntingdon,Theodore Percival Wilson
+584,https://www.goodreads.com/book/show/7767128-the-flower-of-the-family,The Flower Of The Family,Elizabeth Payson Prentiss
+585,https://www.goodreads.com/book/show/43639536-new-ground,New Ground,Charlotte Mary Yonge
+586,https://www.goodreads.com/book/show/39241594-in-scorn-of-consequence,In Scorn Of Consequence,Theodora Corrie
+587,https://www.goodreads.com/book/show/31713285-the-six-cushions-by-the-author-of-the-heir-of-redclyffe,The Six Cushions. by the Author of 'the Heir of Redclyffe',Charlotte Mary Yonge
+588,https://www.goodreads.com/book/show/17166518-ben-sylvester-s-word,Ben Sylvester's Word,Charlotte Mary Yonge
+589,https://www.goodreads.com/book/show/1027826.Mardi_and_a_Voyage_Thither,Mardi and a Voyage Thither,Herman Melville
+590,https://www.goodreads.com/book/show/122761.The_Oregon_Trail,The Oregon Trail,Francis Parkman
+591,https://www.goodreads.com/book/show/35867634-the-christmas-wreck-and-other-stories,The Christmas Wreck and Other Stories,Frank R. Stockton
+592,https://www.goodreads.com/book/show/59090244-where-the-road-bends,Where the Road Bends,Rachel Fordham
+593,https://www.goodreads.com/book/show/608288.A_Murder_a_Mystery_and_a_Marriage,"A Murder, a Mystery and a Marriage",Mark Twain
+594,https://www.goodreads.com/book/show/4292073-tales-of-all-countries-1,Tales of All Countries 1,Anthony Trollope
+595,https://www.goodreads.com/book/show/79121.The_Happy_Prince,The Happy Prince,Oscar Wilde
+596,https://www.goodreads.com/book/show/2338870.Trial_and_Triumph,Trial and Triumph,Frances Ellen Watkins Harper
+597,https://www.goodreads.com/book/show/3170878-the-battle-of-life,The Battle of Life,Charles Dickens
+598,https://www.goodreads.com/book/show/8122145-sowing-and-reaping,Sowing And Reaping,Frances Ellen Watkins Harper
+599,https://www.goodreads.com/book/show/419285.The_Light_That_Failed,The Light That Failed,Rudyard Kipling
+600,https://www.goodreads.com/book/show/58302929-to-disguise-the-truth,"To Disguise the Truth (The Bleeker Street Inquiry Agency, #3)",Jen Turano
+601,https://www.goodreads.com/book/show/31696962-the-fall-of-lord-drayson,The Fall of Lord Drayson (Tanglewood),Rachael Anderson
+602,https://www.goodreads.com/book/show/24146867-a-dream-of-john-ball,A Dream of John Ball,William Morris
+603,https://www.goodreads.com/book/show/8122147-minnie-s-sacrifice,Minnie's Sacrifice,Frances Ellen Watkins Harper
+604,https://www.goodreads.com/book/show/1887815.The_Vampyre_Ernestus_Berchtold_Or_the_Modern_Oedipus,"The Vampyre / Ernestus Berchtold; Or, the Modern Oedipus",John William Polidori
+605,https://www.goodreads.com/book/show/1970383.Measuring_a_Meridian,Measuring a Meridian: The Adventures of Three Englishmen and Three Russians in South Africa,Jules Verne
+606,https://www.goodreads.com/book/show/93007.The_Merry_Adventures_of_Robin_Hood,The Merry Adventures of Robin Hood,Howard Pyle
+607,https://www.goodreads.com/book/show/60737826-la-roja-insignia-del-valor,La roja insignia del valor (Clásica),Stephen Crane
+608,https://www.goodreads.com/book/show/1841154.Act_,Acté,Alexandre Dumas
+609,https://www.goodreads.com/book/show/50635064-to-catch-a-suitor,"To Catch A Suitor (Dalton Family, #2)",Sarah       Adams
+610,https://www.goodreads.com/book/show/22747738-the-winter-family,The Winter Family,Clifford Jackman
+611,https://www.goodreads.com/book/show/141263.Ars_ne_Lupin_versus_Herlock_Sholmes,"Arsène Lupin versus Herlock Sholmes (Arsène Lupin, #2)",Maurice Leblanc
+612,https://www.goodreads.com/book/show/937809.Christine_Leviathan_,Christine. Leviathan. (Lernmaterialien),Julien Green
+613,https://www.goodreads.com/book/show/1287250.The_Fixed_Period,The Fixed Period,Anthony Trollope
+614,https://www.goodreads.com/book/show/1509467.Die_Leute_von_Seldwyla,Die Leute von Seldwyla,Gottfried Keller
+615,https://www.goodreads.com/book/show/11547868-in-too-deep,"In Too Deep (Kincaid Brides, #2)",Mary Connealy
+616,https://www.goodreads.com/book/show/55644810-a-lady-in-attendance,A Lady in Attendance,Rachel Fordham
+617,https://www.goodreads.com/book/show/58376414-a-stolen-kiss,A Stolen Kiss (The Kingsleys #3; Generations of Love #5),M.A. Nichols
+618,https://www.goodreads.com/book/show/57035651-the-matchmaker-s-lonely-heart,"The Matchmaker's Lonely Heart (Matchmakers, #1)",Nancy Campbell Allen
+619,https://www.goodreads.com/book/show/8335144-sense-sensibility,Sense & Sensibility,Nancy Butler
+620,https://www.goodreads.com/book/show/56852767-charming-artemis,"Charming Artemis (The Lancaster Family, #5)",Sarah M. Eden
+621,https://www.goodreads.com/book/show/57070964-shadows-of-swanford-abbey,Shadows of Swanford Abbey,Julie Klassen
+622,https://www.goodreads.com/book/show/57047457-lost-in-darkness,Lost in Darkness (Of Monsters and Men #1),Michelle Griep
+623,https://www.goodreads.com/book/show/169872.The_Mislaid_Magician_or_Ten_Years_After,"The Mislaid Magician; or, Ten Years After (Cecelia and Kate, #3)",Patricia C. Wrede
+624,https://www.goodreads.com/book/show/50890901-the-mammoth-book-of-folk-horror,The Mammoth Book of Folk Horror,Stephen              Jones
+625,https://www.goodreads.com/book/show/57042989-a-warrior-s-heart,"A Warrior's Heart (Brides of Laurent, #1)",Misty M. Beller
+626,https://www.goodreads.com/book/show/169878.The_Grand_Tour,"The Grand Tour (Cecelia and Kate, #2)",Patricia C. Wrede
+627,https://www.goodreads.com/book/show/64207.Sorcery_Cecelia,"Sorcery & Cecelia: or The Enchanted Chocolate Pot (Cecelia and Kate, #1)",Patricia C. Wrede
+628,https://www.goodreads.com/book/show/17465453-the-signature-of-all-things,The Signature of All Things,Elizabeth Gilbert
+629,https://www.goodreads.com/book/show/1074078.El_gigante_ego_sta_y_otros_cuentos,El gigante egoísta y otros cuentos,P. J. Lynch
+630,https://www.goodreads.com/book/show/12759901-ritratti-immaginari,Ritratti immaginari,Walter Pater
+631,https://www.goodreads.com/book/show/56612192-once-upon-a-temptingly-ruinous-kiss,"Once Upon a Temptingly Ruinous Kiss (The Whickertons in Love, #2)",Bree Wolf
+632,https://www.goodreads.com/book/show/36040947-the-captured-bride,"The Captured Bride (Daughters of the Mayflower, #3)",Michelle Griep
+633,https://www.goodreads.com/book/show/2593701-cuentos,Cuentos,Leopoldo Alas
+634,https://www.goodreads.com/book/show/33035669-complete-works-of-george-darley,Complete Works of George Darley,George Darley
+635,https://www.goodreads.com/book/show/20664086-alexandre-dumas-library-of-essential-writers-the-three-musketeers-the,"Alexandre Dumas (Library of Essential Writers) The Three Musketeers, The Count of Monte Christo, The Man in the Iron Mask",Alexandre Dumas
+636,https://www.goodreads.com/book/show/3055903-the-diamond-lens,The Diamond Lens,Fitz-James O'Brien
+637,https://www.goodreads.com/book/show/372317.Kate_s_Choice,Kate's Choice,Louisa May Alcott
+638,https://www.goodreads.com/book/show/56549143-madrid-on-the-move,Madrid on the Move: Feeling Modern and Visually Aware in the Nineteenth Century,Vanesa Rodr�guez-Galindo
+639,https://www.goodreads.com/book/show/34994369-the-valancourt-book-of-victorian-christmas-ghost-stories,The Valancourt Book of Victorian Christmas Ghost Stories: Volume Two,Allen Grove
+640,https://www.goodreads.com/book/show/32793500-the-valancourt-book-of-victorian-christmas-ghost-stories,The Valancourt Book of Victorian Christmas Ghost Stories,Tara Moore
+641,https://www.goodreads.com/book/show/54110460-libertie,Libertie,Kaitlyn Greenidge
+642,https://www.goodreads.com/book/show/10147.The_Complete_Sherlock_Holmes_Volume_I,"The Complete Sherlock Holmes, Volume I",Arthur Conan Doyle
+643,https://www.goodreads.com/book/show/18932219-guy-fawkes-or-the-gunpowder-treason,Guy Fawkes or The Gunpowder Treason,William Harrison Ainsworth
+644,https://www.goodreads.com/book/show/4554471-the-yellow-wallpaper-and-selected-writings,The Yellow Wallpaper and Selected Writings,Charlotte Perkins Gilman
+645,https://www.goodreads.com/book/show/1021455.An_Old_Man_s_Love,An Old Man's Love,Anthony Trollope
+646,https://www.goodreads.com/book/show/720016.Man_and_Wife,Man and Wife,Wilkie Collins
+647,https://www.goodreads.com/book/show/59769381-tales-from-the-genii,Tales from the Genii,Nicola Friar
+648,https://www.goodreads.com/book/show/36064363-the-nutcracker,The Nutcracker,Alexandre Dumas
+649,https://www.goodreads.com/book/show/1339655.Deerbrook,Deerbrook,Harriet Martineau
+650,https://www.goodreads.com/book/show/178533.The_Nigger_of_the_Narcissus,The Nigger of the Narcissus,Joseph Conrad
+651,https://www.goodreads.com/book/show/44025136-promised,Promised,Leah Garriott
+652,https://www.goodreads.com/book/show/13747794-the-uncensored-picture-of-dorian-gray,The Uncensored Picture of Dorian Gray,Oscar Wilde
+653,https://www.goodreads.com/book/show/31358187-missing-411,Missing 411: Hunters,David Paulides
+654,https://www.goodreads.com/book/show/21206786-how-much-land-does-a-man-need,How Much Land Does a Man Need?,Leo Tolstoy
+655,https://www.goodreads.com/book/show/794261.The_Portable_Poe,The Portable Poe,Edgar Allan Poe
+656,https://www.goodreads.com/book/show/149784.Dr_Wortle_s_School,Dr. Wortle's School,Anthony Trollope
+657,https://www.goodreads.com/book/show/1147799.Aurora_Floyd,Aurora Floyd,Mary Elizabeth Braddon
+658,https://www.goodreads.com/book/show/18469501-stuck-together,"Stuck Together (Trouble in Texas, #3)",Mary Connealy
+659,https://www.goodreads.com/book/show/22798868-price-of-privilege,"Price of Privilege (Price of Privilege, #3)",Jessica Dotta
+660,https://www.goodreads.com/book/show/18312044-mark-of-distinction,"Mark of Distinction (Price of Privilege, #2)",Jessica Dotta
+661,https://www.goodreads.com/book/show/6036316-the-masque-of-the-red-death,The Masque of the Red Death,Edgar Allan Poe
+662,https://www.goodreads.com/book/show/45057.Stalky_Co_,Stalky & Co.,Rudyard Kipling
+663,https://www.goodreads.com/book/show/40385024-the-earl-and-his-lady,The Earl and His Lady (Branches of Love #4),Sally Britton
+664,https://www.goodreads.com/book/show/56581811-once-upon-a-devilishly-enchanting-kiss,"Once Upon a Devilishly Enchanting Kiss (The Whickertons in Love, #1)",Bree Wolf
+665,https://www.goodreads.com/book/show/19007714-house-of-angels,House of Angels,Freda Lightfoot
+666,https://www.goodreads.com/book/show/54655847-isabelle-and-alexander,Isabelle and Alexander,Rebecca  Anderson
+667,https://www.goodreads.com/book/show/39891656-the-gentleman-physician,The Gentleman Physician (Branches of Love #2),Sally Britton
+668,https://www.goodreads.com/book/show/882165.Phoebe_Junior,"Phoebe Junior (Chronicles of Carlingford, #6)",Mrs. Oliphant
+669,https://www.goodreads.com/book/show/38297341-the-social-tutor,The Social Tutor (Branches of Love #1),Sally Britton
+670,https://www.goodreads.com/book/show/30753850-a-lady-in-disguise,"A Lady in Disguise (Daughters of Hampshire, #3)",Sandra Byrd
+671,https://www.goodreads.com/book/show/26483087-the-sorceress-of-the-strand-and-other-stories,The Sorceress of the Strand and Other Stories,L.T. Meade
+672,https://www.goodreads.com/book/show/40377276-his-bluestocking-bride,His Bluestocking Bride  (Branches of Love #3),Sally Britton
+673,https://www.goodreads.com/book/show/15829001-do-a-berta-adi-s-cordera,Doña Berta / ¡Adiós Cordera!,Leopoldo Alas
+674,https://www.goodreads.com/book/show/108135.Master_Letters_of_Emily_Dickinson,Master Letters of Emily Dickinson,Emily Dickinson
+675,https://www.goodreads.com/book/show/55654609-to-write-a-wrong,"To Write a Wrong (The Bleeker Street Inquiry Agency, #2)",Jen Turano
+676,https://www.goodreads.com/book/show/13569492-to-write-a-wrong,"To Write a Wrong (Justice Seekers, #2)",Robin Caroll
+677,https://www.goodreads.com/book/show/514761.Miss_Marjoribanks,"Miss Marjoribanks (Chronicles of Carlingford, #5)",Mrs. Oliphant
+678,https://www.goodreads.com/book/show/882166.The_Perpetual_Curate,"The Perpetual Curate (Chronicles of Carlingford, #4)",Mrs. Oliphant
+679,https://www.goodreads.com/book/show/2411983.The_Marquise,The Marquise: A Story Of Secret Passion,George Sand
+680,https://www.goodreads.com/book/show/51253509-the-gentleman-and-the-thief,The Gentleman and the Thief (The Dread Penny Society #2),Sarah M. Eden
+681,https://www.goodreads.com/book/show/43699972-treasure-island,Treasure Island,Marty Ross
+682,https://www.goodreads.com/book/show/6568588-dr-jekyll-and-mr-hyde-and-other-stories,Dr Jekyll and Mr Hyde and Other Stories,Robert Louis Stevenson
+683,https://www.goodreads.com/book/show/36576080-sons-of-blackbird-mountain,"Sons of Blackbird Mountain (Blackbird Mountain, #1)",Joanne Bischof
+684,https://www.goodreads.com/book/show/54655846-a-captain-for-caroline-gray,A Captain for Caroline Gray,Julie Wright
+685,https://www.goodreads.com/book/show/44441973-the-thief-of-lanwyn-manor,"The Thief of Lanwyn Manor (Cornwall, #2)",Sarah E. Ladd
+686,https://www.goodreads.com/book/show/882167.Salem_Chapel,"Salem Chapel (Chronicles of Carlingford, #3)",Mrs. Oliphant
+687,https://www.goodreads.com/book/show/2288652.The_Doctor_s_Family,"The Doctor's Family (Chronicles of Carlingford, #2)",Mrs. Oliphant
+688,https://www.goodreads.com/book/show/42244985-yours-truly-thomas,"Yours Truly, Thomas",Rachel Fordham
+689,https://www.goodreads.com/book/show/17350820-fired-up,"Fired Up (Trouble in Texas, #2)",Mary Connealy
+690,https://www.goodreads.com/book/show/8223136-the-rector,"The Rector (Chronicles of Carlingford, #1)",Mrs. Oliphant
+691,https://www.goodreads.com/book/show/2072189.The_Man_That_Corrupted_Hadleyburg,The Man That Corrupted Hadleyburg,Mark Twain
+692,https://www.goodreads.com/book/show/43598571-romancing-lord-ramsbury,Romancing Lord Ramsbury  (Brides of Brighton #3),Ashtyn Newbold
+693,https://www.goodreads.com/book/show/36662178-carols-and-chaos,Carols and Chaos,Cindy Anstey
+694,https://www.goodreads.com/book/show/52248533-marrying-miss-milton,Marrying Miss Milton  (Brides of Brighton #2),Ashtyn Newbold
+695,https://www.goodreads.com/book/show/33616311-the-executor,"The Executor (The Chronicles of Carlingford, #.5)",Mrs. Oliphant
+696,https://www.goodreads.com/book/show/44244324-dangerous-alliance,Dangerous Alliance: An Austentacious Romance,Jennieke Cohen
+697,https://www.goodreads.com/book/show/2203.John_Adams,John Adams,David McCullough
+698,https://www.goodreads.com/book/show/12190.The_Return,The Return,Joseph Conrad
+699,https://www.goodreads.com/book/show/42411229-a-convenient-engagement,A Convenient Engagement  (Brides of Brighton #1),Ashtyn Newbold
+700,https://www.goodreads.com/book/show/30259041-an-uncommon-courtship,"An Uncommon Courtship (Hawthorne House, #3)",Kristi Ann Hunter
+701,https://www.goodreads.com/book/show/25311189-a-lady-of-esteem,"A Lady of Esteem (Hawthorne House, #0.5)",Kristi Ann Hunter
+702,https://www.goodreads.com/book/show/11422.Redeeming_Love,Redeeming Love,Francine Rivers
+703,https://www.goodreads.com/book/show/87602.Confessions_of_an_English_Opium_Eater_Other_Writings,Confessions of an English Opium-Eater & Other Writings,Thomas de Quincey
+704,https://www.goodreads.com/book/show/220105.Aur_lia,Aurélia,Gérard de Nerval
+705,https://www.goodreads.com/book/show/11200941-uncle-s-dream,Uncle's Dream,Fyodor Dostoevsky
+706,https://www.goodreads.com/book/show/7345793-a-man-from-the-north,A Man from the North,Arnold Bennett
+707,https://www.goodreads.com/book/show/2023010.Many_Cargoes,Many Cargoes,W.W. Jacobs
+708,https://www.goodreads.com/book/show/6585894-the-story-of-a-new-york-house,The Story of a New York House,H.C. Bunner
+709,https://www.goodreads.com/book/show/705296.Youth,Youth,Leo Tolstoy
+710,https://www.goodreads.com/book/show/106412.Ghosts_and_Other_Plays,Ghosts and Other Plays (Ghosts; A Public Enemy; When We Dead Awake),Henrik Ibsen
+711,https://www.goodreads.com/book/show/139421.The_Eternal_Husband,The Eternal Husband,Fyodor Dostoevsky
+712,https://www.goodreads.com/book/show/52705509-ma-e-kobietki,"Małe kobietki (Małe kobietki, #1, Część 1)",Louisa May Alcott
+713,https://www.goodreads.com/book/show/12298.The_Scarlet_Letter_and_Other_Writings,The Scarlet Letter and Other Writings,Nathaniel Hawthorne
+714,https://www.goodreads.com/book/show/275273.Bernard_Shaw,Bernard Shaw: Selected Plays,Rex Harrison
+715,https://www.goodreads.com/book/show/6463488-trials-and-confessions-of-a-housekeeper,Trials and Confessions of a Housekeeper,T.S. Arthur
+716,https://www.goodreads.com/book/show/1227207.The_Moorland_Cottage_and_Other_Stories,The Moorland Cottage and Other Stories,Elizabeth Gaskell
+717,https://www.goodreads.com/book/show/17665335-kitty-bennet-s-diary,"Kitty Bennet's Diary (Pride & Prejudice Chronicles, #3)",Anna Elliott
+718,https://www.goodreads.com/book/show/13360989-pemberley-to-waterloo,"Pemberley to Waterloo (Pride and Prejudice Chronicles, #2)",Anna Elliott
+719,https://www.goodreads.com/book/show/65963.A_Promise_for_Tomorrow,"A Promise for Tomorrow (Ribbons of Steel, #3)",Judith Pella
+720,https://www.goodreads.com/book/show/2318263.The_Cone,The Cone,H.G. Wells
+721,https://www.goodreads.com/book/show/28191500-rudyard-kipling-s-the-jungle-book,Rudyard Kipling’s The Jungle Book: The Mowgli Stories,Richard Kurti
+722,https://www.goodreads.com/book/show/49214130-vying-for-the-viscount,"Vying for the Viscount (Hearts on the Heath, #1)",Kristi Ann Hunter
+723,https://www.goodreads.com/book/show/65969.A_Hope_Beyond,"A Hope Beyond (Ribbons of Steel, #2)",Judith Pella
+724,https://www.goodreads.com/book/show/3496252-the-lagoon,The Lagoon,Joseph Conrad
+725,https://www.goodreads.com/book/show/51269867-to-steal-a-heart,"To Steal a Heart (The Bleeker Street Inquiry Agency, #1)",Jen Turano
+726,https://www.goodreads.com/book/show/32510778-heart-on-the-line,"Heart on the Line (Ladies of Harper’s Station, #2)",Karen Witemeyer
+727,https://www.goodreads.com/book/show/360074.Distant_Dreams,"Distant Dreams (Ribbons of Steel, #1)",Judith Pella
+728,https://www.goodreads.com/book/show/615182.The_Red_Republic_a_Romance_of_the_Commune,The Red Republic a Romance of the Commune,Robert W. Chambers
+729,https://www.goodreads.com/book/show/8045384-moran-of-the-lady-letty,Moran Of The Lady Letty,Frank Norris
+730,https://www.goodreads.com/book/show/156153.The_Gold_Bug_The_Sphinx_William_Wilson_,The Gold Bug [+ The Sphinx + William Wilson],Edgar Allan Poe
+731,https://www.goodreads.com/book/show/2359865.Boyhood,Boyhood,Leo Tolstoy
+732,https://www.goodreads.com/book/show/971670.Diary_of_a_Superfluous_Man,Diary of a Superfluous Man,Ivan Turgenev
+733,https://www.goodreads.com/book/show/2364637.La_Maison_du_Chat_qui_Pelote,La Maison du Chat-qui-Pelote,Honoré de Balzac
+734,https://www.goodreads.com/book/show/14905.The_Complete_Novels,The Complete Novels,Jane Austen
+735,https://www.goodreads.com/book/show/1406553.The_Facts_in_the_Case_of_M_Valdemar,The Facts in the Case of M. Valdemar,Edgar Allan Poe
+736,https://www.goodreads.com/book/show/6076415-irish-fairy-legends,Irish Fairy Legends,Thomas Crofton Croker
+737,https://www.goodreads.com/book/show/12963147-love-in-disguise,Love in Disguise,Carol Cox
+738,https://www.goodreads.com/book/show/369786.Three_Classic_African_American_Novels,Three Classic African-American Novels: The Heroic Slave; Clotel; Our Nig,Frederick Douglass
+739,https://www.goodreads.com/book/show/2748141-confidence,Confidence,Henry James
+740,https://www.goodreads.com/book/show/1153622.Ten_Great_Mysteries,Ten Great Mysteries,Edgar Allan Poe
+741,https://www.goodreads.com/book/show/1519704.F_tes_galantes_Romances_sans_paroles_Po_mes_saturniens,Fêtes galantes / Romances sans paroles / Poèmes saturniens,Paul Verlaine
+742,https://www.goodreads.com/book/show/27512913-passages-in-the-life-of-mrs-margaret-maitland-of-sunnyside,Passages in the Life of Mrs. Margaret Maitland of Sunnyside,Mrs. Oliphant
+743,https://www.goodreads.com/book/show/51253503-georgana-s-secret,Georgana's Secret,Arlem Hawks
+744,https://www.goodreads.com/book/show/2359878.Childhood,Childhood,Leo Tolstoy
+745,https://www.goodreads.com/book/show/20872148-good-luck,Good Luck,L.T. Meade
+746,https://www.goodreads.com/book/show/49734040-brass-carriages-and-glass-hearts,Brass Carriages and Glass Hearts (Steampunk Proper Romance #4),Nancy Campbell Allen
