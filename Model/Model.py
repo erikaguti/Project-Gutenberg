@@ -1,16 +1,15 @@
 #%%
 from bookclass import *
 
-
-#%%
-book_folders = listdir("/home/djtom/bse/term2/text/termpaper/Project-Gutenberg/Books")
-
-def f(b):
-    try:
-        re.findall(r'\/*([^\/]*).txt',b)[0]
-    except:
-        print(b)
-books=[Book_raw_data(b) for b in book_folders if b.endswith('.txt') ]
+import pandas as pd
+goodreads_meta=pd.read_csv('/home/djtom/bse/term2/text/termpaper/Project-Gutenberg/Data/goodreads/getbooks.csv')
+download=pd.read_csv('/home/djtom/bse/term2/text/termpaper/Project-Gutenberg/Data/gutenbergDownloads.csv')
+# #%%
+merged=pd.merge(download, goodreads_meta, left_on='book_id',right_on='book_id')
+books=[]
+for index,row in merged.iterrows():
+    b=Book_raw_data(row)
+    books.append(b)
 
 
 #%%

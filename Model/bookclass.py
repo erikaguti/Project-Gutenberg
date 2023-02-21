@@ -505,21 +505,21 @@ class Book_raw_data(object):
 
         return self.timeseries
 
-    def __init__(self,filepath:str):
-        self.pk=re.findall(r'\/*([^\/]*).txt',filepath)[0]
-        self.title=re.findall(r'\/*([^\/]*).txt',filepath)[0]
+    def __init__(self,row):
+        self.pk=row.book_id
+        self.title=row.title
         self.pickle_object = None
         self.hash = None
-        self.authors = None
+        self.authors = row.author
         self.language = None
         self.lang_code_id = None
         self.downloads = None
         
-        self.from_gutenberg = None
-        self.gutenberg_id = None
+        self.from_gutenberg = row.gutenberg_id
+        self.gutenberg_id = row.gutenberg_id
         self.mobi_file_path =None
         self.epub_file_path =None
-        self.txt_file_path = filepath
+        self.txt_file_path = str(row.gutenberg_id) + '.txt'
         self.expanded_folder_path = ''
         
         # more basic info
