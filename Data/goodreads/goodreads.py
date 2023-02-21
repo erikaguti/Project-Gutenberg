@@ -1,3 +1,4 @@
+#%%
 import argparse
 from datetime import datetime
 import json
@@ -244,7 +245,7 @@ def main(book_ids,format='csv',output_directory_path='metadata',):
 
 
 if __name__=='__main__':
-    american_lit_df=pd.read_csv('book_ids.csv')
+    american_lit_df=pd.read_csv('shelf_data.csv')
     book_ids=american_lit_df.id.apply(lambda x : re.findall(r'/show/(.*)',x)[0]).to_list()
 
     main(book_ids)
@@ -256,3 +257,46 @@ If you have already run this file, and you just want to get the
 metadata of the scraped books, you can do
 pd.read_csv('metadata/all_books.csv')
 '''
+# #%%
+# from ast import literal_eval
+# def clean(x):
+#     return literal_eval(x)
+
+# metadata = pd.read_csv('metadata/all_books.csv', converters={'genres': clean})
+# # metadata=pd.read_csv('metadata/all_books.csv')
+# #%%
+# a=set()
+# def extendset(x,a=a):
+#     # a=set()
+#     for i in x:
+#         a.add(i)
+#     return a
+
+        
+ 
+
+# metadata['genres'].apply(lambda x : extendset(x))
+
+# #%%
+# a
+# #%%
+# def isexcluded(x):
+#     return not bool(exclude & set(x)) 
+# #%%
+# metadata['flag']=metadata.genres.apply(isexcluded)
+
+# #%%
+# exclude=set([ 'Graphic Novels',
+#  'Graphic Novels Comics', 'Nonfiction', 'Essays', 'Plays',
+#  'Poetry','History','Short Stories'])
+
+# # include=set(['History'])
+# #%%
+# metadata=metadata[metadata['flag']==True]
+# metadata=metadata[metadata['year_first_published']<2000]
+# metadata.to_csv('getbooks.csv')
+# #%%
+# metadata.year_first_published.hist()
+
+# #%%
+# metadata[metadata.year_first_published>1980]
