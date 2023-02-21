@@ -9,7 +9,7 @@ import numpy as np
 # get Data
 books = get_genre_booklist("horror")
 
-book_list = download_books(books)
+book_list = download_book(books)
 
 dataset = pd.DataFrame(book_list, columns = ['id', 'title', 'downloadlink', 'text'])
 
