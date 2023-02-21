@@ -1,3 +1,4 @@
+# %%
 import requests
 import urllib.request
 import re
@@ -15,7 +16,7 @@ def get_text_file(formats, id):
 
 def download_txt_file(booktxt, id):
     r = requests.get(booktxt)
-    f = open(f"Books/{id}.txt", "w")
+    f = open(f"../Books/{id}.txt", "w")
     f.write(str(r.content))
     f.close()
 
@@ -56,26 +57,10 @@ def get_book(title, author, baseurl):
     data = requests.get(url).json()
     
     for book in data['results']:
-        if title in book['title'].lower():
+        if title in book['title'].lower() and 'Vol' not in book['title'].lower():
             get_text_file(book['formats'], book['id'])
-            metadata = {'id': book['id'],'title':book['title']}
+            metadata = {'gutenberg_id': book['id'],'title':book['title']}
             return metadata
-        
+    
 
-# example implementation
-
-book_list = {'book':['The Scarlet Letter', 'Little Women', 'The Legend of Sleepy Hollow'], 
- 'author': ['Nathaniel Hawthorne','Louisa May Alcott', 'Washington Irving']}
-
-dataset = pd.DataFrame(book_list)
-
-downloads = []
-for i in range(len(dataset)):
-    downloaded = get_book(dataset.loc[i,'book'], dataset.loc[i,'author'], baseurl)
-    downloads.append(downloaded)
-
-print(downloads)
-
-
-
-
+# %%
