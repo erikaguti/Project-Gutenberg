@@ -72,6 +72,7 @@ def scrape_shelf(browser, shelf_link, n_pages):
 # %%
 #example of how to use the functions
 shelf_links = ["https://www.goodreads.com/shelf/show/1890s","https://www.goodreads.com/shelf/show/1900s","https://www.goodreads.com/shelf/show/1910s","https://www.goodreads.com/shelf/show/1920s","https://www.goodreads.com/shelf/show/1930s"]
+shelf_links1920_1930 = ["https://www.goodreads.com/shelf/show/1920s","https://www.goodreads.com/shelf/show/1930s"]
 sign_in = "https://www.goodreads.com/ap/signin?language=en_US&openid.assoc_handle=amzn_goodreads_web_na&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in&siteState=2b3285888554013e4d7703d5fb97af42"
 username = '4freye@gmail.com'
 password = '9Uz4Bh2cx2!d'
@@ -81,7 +82,7 @@ password = '9Uz4Bh2cx2!d'
 all_decade_shelves = pd.DataFrame()
 browser = initialize_browser(sign_in, username, password)
 
-for link in shelf_links:
+for link in shelf_links1920_1930:
     shelf_df = scrape_shelf(browser, link, 10)
 
     extracted_data = []
@@ -98,10 +99,16 @@ for link in shelf_links:
 
 
 # %%
-shelf_df.publish_date
-
+#shelves1890_1910 = all_decade_shelves
+filtered_books.title = filtered_books.title.apply(lambda x: re.sub(r"\([^()]*\)", "",  x))
 #import re
 #block_elements = browser.find_elements(By.XPATH, "//div[@class='left']")
 #greyText_string = block_elements[27].find_element(By.XPATH, ".//span[@class='greyText smallText']").get_attribute('innerHTML')
 #re.findall(r'published\s(\d{4})\n', greyText_string)[0]
+# %%
+filtered_books = all_decade_shelves[(all_decade_shelves.publish_date >= 1890) & 
+(all_decade_shelves.publish_date <= 1940)]
+
+# %%
+filtered_books.to_csv('books_around_WWI.csv')
 # %%
