@@ -17,7 +17,7 @@ def get_text_file(formats, id):
 
 def download_txt_file(booktxt, id):
     r = requests.get(booktxt)
-    f = open(f"/Books/{id}.txt", "w")
+    f = open(f"../Books/{id}.txt", "w")
     f.write(str(r.content))
     f.close()
 
