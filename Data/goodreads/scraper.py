@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import time
 import numpy as np
+import re
 
 #define functions
 def zoom_out(browser):
@@ -51,13 +52,15 @@ def scrape_shelf(browser, shelf_link, n_pages):
         for block in block_elements:
             
             title = block.find_element(By.XPATH, ".//a[@class='leftAlignedImage']").get_attribute('title')
-            print(title)
+            #print(title)
             try: 
                 id = block.find_element(By.XPATH,".//a[@class='bookTitle']").get_attribute('href')
             except:
                 id= np.nan
             author = block.find_element(By.XPATH, ".//span[@itemprop='name']").get_attribute('innerHTML')
-            shelf_data.append({'id':id, 'title':title, 'author':author})
+            greyText_string = block.find_element(By.XPATH, ".//span[@class='greyText smallText']").get_attribute('innerHTML')
+            publish_date = re.findall(r'published\s(\d{4})\n', greyText_string)
+            shelf_data.append({'id':id, 'title':title, 'author':author, 'publish_date':publish_date})
 
         if i < n_pages - 1:
             click(browser, 'xpath',".//a[@class='next_page']")
@@ -68,15 +71,37 @@ def scrape_shelf(browser, shelf_link, n_pages):
     
 # %%
 #example of how to use the functions
-shelf_link = "https://www.goodreads.com/shelf/show/19th-century-fiction"
+shelf_links = ["https://www.goodreads.com/shelf/show/1890s","https://www.goodreads.com/shelf/show/1900s","https://www.goodreads.com/shelf/show/1910s","https://www.goodreads.com/shelf/show/1920s","https://www.goodreads.com/shelf/show/1930s"]
 sign_in = "https://www.goodreads.com/ap/signin?language=en_US&openid.assoc_handle=amzn_goodreads_web_na&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.goodreads.com%2Fap-handler%2Fsign-in&siteState=2b3285888554013e4d7703d5fb97af42"
 username = '4freye@gmail.com'
 password = '9Uz4Bh2cx2!d'
-
+#%%
 #this may fail if asked for captcha. In that case, run the first function, enter captcha password, and then run second.
+
+all_decade_shelves = pd.DataFrame()
 browser = initialize_browser(sign_in, username, password)
-shelf_df = scrape_shelf(browser, shelf_link, 15)
 
-shelf_df.to_csv('shelf_data.csv')
+for link in shelf_links:
+    shelf_df = scrape_shelf(browser, link, 10)
 
+    extracted_data = []
+    for x in shelf_df.publish_date:
+        if len(x) > 0:
+            extracted_data.append(x[0])
+        else:
+            extracted_data.append(None)
+    shelf_df.publish_date = pd.Series(extracted_data).astype('float')
+    
+    all_decade_shelves = pd.concat([all_decade_shelves,shelf_df], axis=0)
+
+#shelf_df.to_csv('shelf_data.csv')
+
+
+# %%
+shelf_df.publish_date
+
+#import re
+#block_elements = browser.find_elements(By.XPATH, "//div[@class='left']")
+#greyText_string = block_elements[27].find_element(By.XPATH, ".//span[@class='greyText smallText']").get_attribute('innerHTML')
+#re.findall(r'published\s(\d{4})\n', greyText_string)[0]
 # %%
