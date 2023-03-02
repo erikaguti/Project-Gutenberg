@@ -57,7 +57,7 @@ def get_book(title, author, baseurl):
     data = requests.get(url).json()
     
     for book in data['results']:
-        if title in book['title'].lower() and 'Vol' not in book['title'].lower():
+        if title in book['title'].lower() and 'vol' not in book['title'].lower():
             get_text_file(book['formats'], book['id'])
             metadata = {'gutenberg_id': book['id'],'title':book['title']}
             return metadata
