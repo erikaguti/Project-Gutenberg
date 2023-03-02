@@ -1,7 +1,7 @@
 # %%
 import pandas as pd
 from API import get_book, baseurl
-dataset = pd.read_csv('Data/books_around_WWI.csv')
+dataset = pd.read_csv('df3.csv')
 downloads = []
 
 for i in range(len(dataset)):
