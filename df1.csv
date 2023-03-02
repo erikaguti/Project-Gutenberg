@@ -1,0 +1,402 @@
+,Unnamed: 0,id,title,author,publish_date
+0,0,https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray,The Picture of Dorian Gray,Oscar Wilde,1890.0
+1,1,https://www.goodreads.com/book/show/17245.Dracula,Dracula,Bram Stoker,1897.0
+2,2,https://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest,The Importance of Being Earnest,Oscar Wilde,1895.0
+3,3,https://www.goodreads.com/book/show/2493.The_Time_Machine,The Time Machine,H.G. Wells,1895.0
+4,4,https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds,The War of the Worlds,H.G. Wells,1897.0
+5,5,https://www.goodreads.com/book/show/32261.Tess_of_the_D_Urbervilles,Tess of the D'Urbervilles,Thomas Hardy,1891.0
+6,6,https://www.goodreads.com/book/show/4900.Heart_of_Darkness,Heart of Darkness,Joseph Conrad,1899.0
+7,7,https://www.goodreads.com/book/show/12948.The_Turn_of_the_Screw,The Turn of the Screw,Henry James,1898.0
+8,8,https://www.goodreads.com/book/show/17184.The_Invisible_Man,The Invisible Man,H.G. Wells,1897.0
+9,9,https://www.goodreads.com/book/show/58345.The_Awakening,The Awakening,Kate Chopin,1899.0
+10,10,https://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau,The Island of Dr. Moreau,H.G. Wells,1896.0
+11,11,https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes,The Adventures of Sherlock Holmes ,Arthur Conan Doyle,1892.0
+12,12,https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper,The Yellow Wall-Paper,Charlotte Perkins Gilman,1892.0
+13,13,https://www.goodreads.com/book/show/608474.The_Sign_of_Four,The Sign of Four ,Arthur Conan Doyle,1890.0
+14,14,https://www.goodreads.com/book/show/50798.Jude_the_Obscure,Jude the Obscure,Thomas Hardy,1895.0
+15,15,https://www.goodreads.com/book/show/32585.Hunger,Hunger,Knut Hamsun,1890.0
+16,16,https://www.goodreads.com/book/show/35220.The_Red_Badge_of_Courage,The Red Badge of Courage,Stephen Crane,1895.0
+17,17,https://www.goodreads.com/book/show/194373.The_Memoirs_of_Sherlock_Holmes,The Memoirs of Sherlock Holmes ,Arthur Conan Doyle,1893.0
+18,19,https://www.goodreads.com/book/show/54492.The_Prisoner_of_Zenda,The Prisoner of Zenda ,Anthony Hope,1894.0
+19,20,https://www.goodreads.com/book/show/392452.What_Maisie_Knew,What Maisie Knew,Henry James,1897.0
+20,21,https://www.goodreads.com/book/show/442296.Effi_Briest,Effi Briest,Theodor Fontane,1894.0
+21,23,https://www.goodreads.com/book/show/77270.The_Jungle_Book,The Jungle Book,Rudyard Kipling,1894.0
+22,24,https://www.goodreads.com/book/show/79649.The_Seagull,The Seagull,Anton Chekhov,1895.0
+23,25,https://www.goodreads.com/book/show/231560.Uncle_Vanya,Uncle Vanya,Anton Chekhov,1897.0
+24,26,https://www.goodreads.com/book/show/15638.Cyrano_de_Bergerac,Cyrano de Bergerac,Edmond Rostand,1897.0
+25,27,https://www.goodreads.com/book/show/920649.An_Occurrence_at_Owl_Creek_Bridge,An Occurrence at Owl Creek Bridge,Ambrose Bierce,1890.0
+26,28,https://www.goodreads.com/book/show/32277642-the-king-in-yellow,The King in Yellow,Robert W. Chambers,1895.0
+27,31,https://www.goodreads.com/book/show/5296.An_Ideal_Husband,An Ideal Husband,Oscar Wilde,1893.0
+28,32,https://www.goodreads.com/book/show/93981.The_Interpretation_of_Dreams,The Interpretation of Dreams,Sigmund Freud,1899.0
+29,33,https://www.goodreads.com/book/show/292275.Hedda_Gabler,Hedda Gabler,Henrik Ibsen,1890.0
+30,34,https://www.goodreads.com/book/show/315298.L_Bas,Là-Bas ,Joris-Karl Huysmans,1891.0
+31,38,https://www.goodreads.com/book/show/67762.Salom_,Salomé,Oscar Wilde,1891.0
+32,39,https://www.goodreads.com/book/show/122648.A_Woman_of_No_Importance,A Woman of No Importance,Oscar Wilde,1893.0
+33,42,https://www.goodreads.com/book/show/1852.The_Call_of_the_Wild,The Call of the Wild,Jack London,1903.0
+34,43,https://www.goodreads.com/book/show/551498.The_Awkward_Age,The Awkward Age,Henry James,1899.0
+35,44,https://www.goodreads.com/book/show/122649.Lady_Windermere_s_Fan,Lady Windermere's Fan,Oscar Wilde,1892.0
+36,45,https://www.goodreads.com/book/show/675037.The_Odd_Women,The Odd Women,George Gissing,1893.0
+37,46,https://www.goodreads.com/book/show/41684.The_Jungle_Books,The Jungle Books,Rudyard Kipling,1895.0
+38,47,https://www.goodreads.com/book/show/164019.The_Theory_of_the_Leisure_Class,The Theory of the Leisure Class,Thorstein Veblen,1899.0
+39,48,https://www.goodreads.com/book/show/538845.Quo_Vadis,Quo Vadis,Henryk Sienkiewicz,1896.0
+40,49,https://www.goodreads.com/book/show/99300.The_Yellow_Wallpaper_and_Other_Stories,The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman,1892.0
+41,50,https://www.goodreads.com/book/show/782519.New_Grub_Street,New Grub Street,George Gissing,1891.0
+42,51,https://www.goodreads.com/book/show/2395757.The_Adventure_of_the_Blue_Carbuncle_a_Sherlock_Holmes_Short_Story,The Adventure of the Blue Carbuncle - a Sherlock Holmes Short Story ,Arthur Conan Doyle,1892.0
+43,52,https://www.goodreads.com/book/show/408862.The_Golden_Bough,The Golden Bough,James George Frazer,1890.0
+44,53,https://www.goodreads.com/book/show/82888.Dom_Casmurro,Dom Casmurro,Machado de Assis,1899.0
+45,54,https://www.goodreads.com/book/show/682793.Pudd_nhead_Wilson,Pudd'nhead Wilson,Mark Twain,1893.0
+46,55,https://www.goodreads.com/book/show/32590.Pan,Pan,Knut Hamsun,1894.0
+47,56,https://www.goodreads.com/book/show/168655.McTeague,McTeague,Frank Norris,1899.0
+48,60,https://www.goodreads.com/book/show/853950.Tristana,Tristana,Benito Pérez Galdós,1892.0
+49,61,https://www.goodreads.com/book/show/115538.Moonfleet,Moonfleet,John Meade Falkner,1898.0
+50,62,https://www.goodreads.com/book/show/10147.The_Complete_Sherlock_Holmes_Volume_I,"The Complete Sherlock Holmes, Volume I",Arthur Conan Doyle,1927.0
+51,63,https://www.goodreads.com/book/show/112204.The_Complete_Poems_of_Emily_Dickinson,The Complete Poems of Emily Dickinson,Emily Dickinson,1890.0
+52,64,https://www.goodreads.com/book/show/67859.G_sta_Berling_s_Saga,Gösta Berling's Saga,Selma Lagerlöf,1891.0
+53,65,https://www.goodreads.com/book/show/398197.Almayer_s_Folly,Almayer's Folly,Joseph Conrad,1892.0
+54,66,https://www.goodreads.com/book/show/1481718.The_Wind_Among_the_Reeds,The Wind Among the Reeds,W.B. Yeats,1899.0
+55,67,https://www.goodreads.com/book/show/80339.The_Soul_of_Man_Under_Socialism,The Soul of Man Under Socialism,Oscar Wilde,1891.0
+56,69,https://www.goodreads.com/book/show/34057.Captains_Courageous,Captains Courageous,Rudyard Kipling,1897.0
+57,71,https://www.goodreads.com/book/show/1367037.Le_Docteur_Pascal,Le Docteur Pascal ,Émile Zola,1893.0
+58,72,https://www.goodreads.com/book/show/517693.Ubu_Roi,Ubu Roi,Alfred Jarry,1896.0
+59,73,https://www.goodreads.com/book/show/42641.Resurrection,Resurrection,Leo Tolstoy,1899.0
+60,75,https://www.goodreads.com/book/show/774846.The_Great_God_Pan,The Great God Pan,Arthur Machen,1890.0
+61,76,https://www.goodreads.com/book/show/208977.Maggie,Maggie: A Girl of the Streets,Stephen Crane,1893.0
+62,77,https://www.goodreads.com/book/show/174198.The_Country_of_the_Pointed_Firs_and_Other_Stories,The Country of the Pointed Firs and Other Stories,Sarah Orne Jewett,1910.0
+63,78,https://www.goodreads.com/book/show/752936.A_Shropshire_Lad,A Shropshire Lad,A.E. Housman,1896.0
+64,79,https://www.goodreads.com/book/show/47207.Raffles,Raffles: The Amateur Cracksman ,E.W. Hornung,1898.0
+65,80,https://www.goodreads.com/book/show/80939.When_the_Sleeper_Wakes,When the Sleeper Wakes,H.G. Wells,1899.0
+66,81,https://www.goodreads.com/book/show/128518.The_Second_Jungle_Book,The Second Jungle Book,Rudyard Kipling,1895.0
+67,85,https://www.goodreads.com/book/show/65650079-the-blood-of-the-vampire,The Blood of the Vampire: An independent woman in Europe with White-Black mixed race heritage,Florence Marryat,1897.0
+68,86,https://www.goodreads.com/book/show/189746.News_from_Nowhere,News from Nowhere,William Morris,1890.0
+69,88,https://www.goodreads.com/book/show/662786.Seven_Little_Australians,Seven Little Australians ,Ethel Turner,1894.0
+70,90,https://www.goodreads.com/book/show/788085.Trilby,Trilby,George du Maurier,1894.0
+71,92,https://www.goodreads.com/book/show/83071.The_Songs_of_Bilitis,The Songs of Bilitis,Pierre Louÿs,1894.0
+72,93,https://www.goodreads.com/book/show/754771.Story_of_a_Soul,Story of a Soul: The Autobiography of St. Thérèse of Lisieux,Thérèse de Lisieux,1898.0
+73,94,https://www.goodreads.com/book/show/13614447-the-book-of-monelle,The Book of Monelle,Marcel Schwob,1894.0
+74,95,https://www.goodreads.com/book/show/602398.Tha_s,Thaïs,Anatole France,1890.0
+75,96,https://www.goodreads.com/book/show/28417.La_B_te_humaine,La Bête humaine,Émile Zola,1890.0
+76,97,https://www.goodreads.com/book/show/32586.Mysteries,Mysteries,Knut Hamsun,1892.0
+77,99,https://www.goodreads.com/book/show/12950.The_Turn_of_the_Screw_and_The_Aspern_Papers,The Turn of the Screw and The Aspern Papers,Henry James,1898.0
+78,103,https://www.goodreads.com/book/show/1140698.Elizabeth_and_Her_German_Garden,Elizabeth and Her German Garden,Elizabeth von Arnim,1898.0
+79,104,https://www.goodreads.com/book/show/223634.The_Master_Builder,The Master Builder,Henrik Ibsen,1892.0
+80,105,https://www.goodreads.com/book/show/137235.Victoria,Victoria,Knut Hamsun,1898.0
+81,106,https://www.goodreads.com/book/show/763747.The_Ubu_Plays,The Ubu Plays: Ubu Rex / Ubu Cuckolded / Ubu Enchained,Alfred Jarry,1899.0
+82,107,https://www.goodreads.com/book/show/6251113,Бай Ганьо,Aleko Konstantinov,1894.0
+83,110,https://www.goodreads.com/book/show/2834.The_Tragedy_of_Pudd_nhead_Wilson_Those_Extraordinary_Twins,The Tragedy of Pudd'nhead Wilson/Those Extraordinary Twins,Mark Twain,1894.0
+84,111,https://www.goodreads.com/book/show/80176.Winesburg_Ohio,"Winesburg, Ohio",Sherwood Anderson,1919.0
+85,113,https://www.goodreads.com/book/show/2908578-en-herrg-rdss-gen,En herrgårdssägen,Selma Lagerlöf,1899.0
+86,114,https://www.goodreads.com/book/show/268234.Tom_Sawyer_Detective,"Tom Sawyer, Detective",Mark Twain,1896.0
+87,117,https://www.goodreads.com/book/show/103490.Hawaii_s_Story_by_Hawaii_s_Queen,Hawaii's Story by Hawaii's Queen,Liliuokalani,1898.0
+88,118,https://www.goodreads.com/book/show/140963.O_Pioneers_,O Pioneers! ,Willa Cather,1913.0
+89,120,https://www.goodreads.com/book/show/13494754-the-mark-of-the-beast,The Mark of the Beast,Rudyard Kipling,1890.0
+90,122,https://www.goodreads.com/book/show/59397.The_Three_Impostors,The Three Impostors,Arthur Machen,1895.0
+91,125,https://www.goodreads.com/book/show/1243420.Can_Such_Things_Be_,Can Such Things Be?,Ambrose Bierce,1893.0
+92,126,https://www.goodreads.com/book/show/2873124-the-judge-s-house,The Judge's House,Bram Stoker,1891.0
+93,127,https://www.goodreads.com/book/show/957628.Five_Little_Peppers_Midway,Five Little Peppers Midway ,Margaret Sidney,1890.0
+94,129,https://www.goodreads.com/book/show/214759.En_Route,En Route,Joris-Karl Huysmans,1895.0
+95,130,https://www.goodreads.com/book/show/2100487.Aphrodite,Aphrodite,Pierre Louÿs,1896.0
+96,131,https://www.goodreads.com/book/show/213864.The_King_in_the_Golden_Mask_and_Other_Stories,The King in the Golden Mask and Other Stories,Marcel Schwob,1892.0
+97,133,https://www.goodreads.com/book/show/43035.White_Fang,White Fang,Jack London,1906.0
+98,134,https://www.goodreads.com/book/show/989313.Heart_of_Darkness_and_Selected_Short_Fiction,Heart of Darkness and Selected Short Fiction,Joseph Conrad,1899.0
+99,135,https://www.goodreads.com/book/show/133164.Bruges_La_Morte,Bruges-La-Morte,Georges Rodenbach,1892.0
+100,136,https://www.goodreads.com/book/show/1540877.The_Castle_of_the_Carpathians,The Castle of the Carpathians,Jules Verne,1892.0
+101,139,https://www.goodreads.com/book/show/310562.The_Shining_Pyramid,The Shining Pyramid,Arthur Machen,1895.0
+102,141,https://www.goodreads.com/book/show/799266.The_Sorrows_of_Satan_or_The_Strange_Experience_of_One_Geoffrey_Tempest_Millionaire,"The Sorrows of Satan; or, The Strange Experience of One Geoffrey Tempest, Millionaire",Marie Corelli,1895.0
+103,142,https://www.goodreads.com/book/show/816740.The_Beetle,The Beetle,Richard Marsh,1897.0
+104,143,https://www.goodreads.com/book/show/400592.In_the_Cage,In the Cage,Henry James,1898.0
+105,144,https://www.goodreads.com/book/show/963502.Life_s_Little_Ironies,Life's Little Ironies,Thomas Hardy,1894.0
+106,146,https://www.goodreads.com/book/show/213519.Reform_or_Revolution,Reform or Revolution,Rosa Luxemburg,1898.0
+107,147,https://www.goodreads.com/book/show/1113155.The_Conquest_of_Bread,The Conquest of Bread,Pyotr Kropotkin,1892.0
+108,149,https://www.goodreads.com/book/show/7585.Spring_s_Awakening,Spring's Awakening,Frank Wedekind,1891.0
+109,150,https://www.goodreads.com/book/show/699468.The_Well_Beloved,The Well-Beloved,Thomas Hardy,1892.0
+110,151,https://www.goodreads.com/book/show/3497718-tales-of-space-and-time,Tales of Space and Time,H.G. Wells,1899.0
+111,152,https://www.goodreads.com/book/show/1294183.Aradia,Aradia: Gospel of the Witches,Charles Godfrey Leland,1899.0
+112,153,https://www.goodreads.com/book/show/62390.Tom_Sawyer_Abroad,Tom Sawyer Abroad,Mark Twain,1894.0
+113,154,https://www.goodreads.com/book/show/723155.The_Wood_Beyond_the_World,The Wood Beyond the World,William Morris,1894.0
+114,155,https://www.goodreads.com/book/show/268187.Lilith,Lilith,George MacDonald,1895.0
+115,157,https://www.goodreads.com/book/show/782188.Misericordia,Misericordia,Benito Pérez Galdós,1897.0
+116,159,https://www.goodreads.com/book/show/1329726.The_Ballad_of_Reading_Gaol,The Ballad of Reading Gaol,Oscar Wilde,1896.0
+117,162,https://www.goodreads.com/book/show/115069.L_Argent,L'Argent ,Émile Zola,1891.0
+118,163,https://www.goodreads.com/book/show/151447.As_a_Man_Grows_Older,As a Man Grows Older,Italo Svevo,1898.0
+119,164,https://www.goodreads.com/book/show/312862.The_Duel,The Duel,Anton Chekhov,1891.0
+120,165,https://www.goodreads.com/book/show/50270.Master_and_Man,Master and Man,Leo Tolstoy,1895.0
+121,166,https://www.goodreads.com/book/show/2440272.Imaginary_Lives,Imaginary Lives,Marcel Schwob,1896.0
+122,168,https://www.goodreads.com/book/show/1629064.Around_the_World_in_72_Days,Around the World in 72 Days,Nellie Bly,1890.0
+123,172,https://www.goodreads.com/book/show/1740633.The_Five_Orange_Pips,The Five Orange Pips ,Arthur Conan Doyle,1891.0
+124,173,https://www.goodreads.com/book/show/1254877.The_Red_Headed_League,The Red-Headed League ,Arthur Conan Doyle,1891.0
+125,174,https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables,Anne of Green Gables ,L.M. Montgomery,1908.0
+126,175,https://www.goodreads.com/book/show/87265.Quincas_Borba,Quincas Borba,Celso Favaretto,1891.0
+127,176,https://www.goodreads.com/book/show/189745.News_from_Nowhere_and_Other_Writings,News from Nowhere and Other Writings,William Morris,1890.0
+128,177,https://www.goodreads.com/book/show/31548.Of_Human_Bondage,Of Human Bondage,W. Somerset Maugham,1915.0
+129,178,https://www.goodreads.com/book/show/577542.Rikki_Tikki_Tavi,Rikki-Tikki-Tavi,Jerry Pinkney,1894.0
+130,179,https://www.goodreads.com/book/show/1968342.A_Traveler_from_Altruria,A Traveler from Altruria,William Dean Howells,1894.0
+131,180,https://www.goodreads.com/book/show/821176.The_Damnation_of_Theron_Ware,The Damnation of Theron Ware: Or Illumination ,Scott Donaldson,1896.0
+132,181,https://www.goodreads.com/book/show/193772.The_Spoils_of_Poynton,The Spoils of Poynton,Henry James,1896.0
+133,186,https://www.goodreads.com/book/show/86502.Herland_The_Yellow_Wall_Paper_and_Selected_Writings,"Herland, The Yellow Wall-Paper, and Selected Writings",Charlotte Perkins Gilman,1915.0
+134,190,https://www.goodreads.com/book/show/257443.So_Big,So Big,Edna Ferber,1924.0
+135,191,https://www.goodreads.com/book/show/18304.The_Anti_Christ,The Anti-Christ,Friedrich Nietzsche,1895.0
+136,192,https://www.goodreads.com/book/show/323455.De_Profundis,De Profundis,Oscar Wilde,1897.0
+137,196,https://www.goodreads.com/book/show/954474.Selected_Stories,Selected Stories,Anton Chekhov,1898.0
+138,197,https://www.goodreads.com/book/show/11143753-rikki-tikki-tavi,Rikki-Tikki-Tavi,Rudyard Kipling,1894.0
+139,198,https://www.goodreads.com/book/show/5693.Selected_Stories_of_Anton_Chekhov,Selected Stories of Anton Chekhov,Anton Chekhov,1903.0
+140,201,https://www.goodreads.com/book/show/162823.The_Case_Book_of_Sherlock_Holmes,The Case-Book of Sherlock Holmes ,Arthur Conan Doyle,1927.0
+141,202,https://www.goodreads.com/book/show/10432958-the-rose,The Rose,W.B. Yeats,1893.0
+142,203,https://www.goodreads.com/book/show/24874326-lord-arthur-savile-s-crime,Lord Arthur Savile's Crime,Oscar Wilde,1891.0
+143,210,https://www.goodreads.com/book/show/4689508-the-diamond-maker,The Diamond Maker,H.G. Wells,1894.0
+144,214,https://www.goodreads.com/book/show/609494.The_Young_Visiters,The Young Visiters,Daisy Ashford,1919.0
+145,216,https://www.goodreads.com/book/show/6399041-the-christmas-hirelings,The Christmas Hirelings,Mary Elizabeth Braddon,1894.0
+146,217,https://www.goodreads.com/book/show/47561.Cautionary_Tales_for_Children,Cautionary Tales for Children,Hilaire Belloc,1907.0
+147,219,https://www.goodreads.com/book/show/80468.Capital,"Capital: A Critique of Political Economy, Volume 3",Karl Marx,1894.0
+148,221,https://www.goodreads.com/book/show/11430719-lot-no-249,Lot No. 249,Arthur Conan Doyle,1892.0
+149,222,https://www.goodreads.com/book/show/21111826-the-darling,The Darling,Anton Chekhov,1899.0
+150,224,https://www.goodreads.com/book/show/24870699-the-crystal-egg,The Crystal Egg,H.G. Wells,1897.0
+151,225,https://www.goodreads.com/book/show/15719940-lost-hearts,Lost Hearts,M.R. James,1895.0
+152,228,https://www.goodreads.com/book/show/1848444.A_Scandal_in_Bohemia,A Scandal in Bohemia ,Ronald  Holt,1891.0
+153,233,https://www.goodreads.com/book/show/20880340-the-symbolist-movement-in-literature,The Symbolist Movement in Literature,Arthur Symons,1899.0
+154,236,https://www.goodreads.com/book/show/523918.Prince_Zaleski,Prince Zaleski,M.P. Shiel,1895.0
+155,237,https://www.goodreads.com/book/show/9926594-propeller-island,Propeller Island,Jules Verne,1895.0
+156,238,https://www.goodreads.com/book/show/1132373.A_Journey_in_Other_Worlds,A Journey in Other Worlds: A Romance of the Future,John Jacob Astor,1894.0
+157,239,https://www.goodreads.com/book/show/854257.A_Bid_for_Fortune_or_Dr_Nikola_s_Vendetta,A Bid for Fortune or Dr Nikola's Vendetta ,Guy Newell Boothby,1895.0
+158,240,https://www.goodreads.com/book/show/274338.Madame_Butterfly,Madame Butterfly,John Luther Long,1898.0
+159,245,https://www.goodreads.com/book/show/719181.An_Antarctic_Mystery,An Antarctic Mystery,Jules Verne,1897.0
+160,247,https://www.goodreads.com/book/show/1925130.Dr_Nikola_s_Experiment,Dr. Nikola's Experiment,Guy Newell Boothby,1899.0
+161,249,https://www.goodreads.com/book/show/94968.David_Balfour,David Balfour ,Robert Louis Stevenson,1893.0
+162,250,https://www.goodreads.com/book/show/194204.The_Celtic_Twilight,The Celtic Twilight: Faerie and Folklore,W.B. Yeats,1893.0
+163,252,https://www.goodreads.com/book/show/40209.Maggie,Maggie: A Girl of the Streets and Other Tales of New York,Stephen Crane,1893.0
+164,253,https://www.goodreads.com/book/show/2347137.The_Country_of_the_Pointed_Firs,The Country of the Pointed Firs,Sarah Orne Jewett,1896.0
+165,254,https://www.goodreads.com/book/show/6088374-that-affair-next-door,That Affair Next Door,Anna Katharine Green,1897.0
+166,255,https://www.goodreads.com/book/show/5223607-the-evil-guest,The Evil Guest ,J. Sheridan Le Fanu,1895.0
+167,256,https://www.goodreads.com/book/show/2160438.The_Wheels_of_Chance,The Wheels of Chance: A Bicycling Idyll,H.G. Wells,1896.0
+168,257,https://www.goodreads.com/book/show/2061460.The_Dorrington_Deed_Box,The Dorrington Deed-Box,Arthur Morrison,1897.0
+169,258,https://www.goodreads.com/book/show/444374.The_Story_of_the_Treasure_Seekers,The Story of the Treasure Seekers ,E. Nesbit,1899.0
+170,259,https://www.goodreads.com/book/show/80952.Love_and_Mr_Lewisham,Love and Mr. Lewisham,H.G. Wells,1899.0
+171,260,https://www.goodreads.com/book/show/880072.Some_Experiences_of_an_Irish_R_M_,Some Experiences of an Irish R.M.,Edith Œnone Somerville,1899.0
+172,261,https://www.goodreads.com/book/show/785360.Futility_or_the_Wreck_of_the_Titan,Futility or the Wreck of the Titan,Morgan Robertson,1898.0
+173,262,https://www.goodreads.com/book/show/62766.Kokoro,Kokoro: Hints and Echos of Japanese Inner Life,Lafcadio Hearn,1896.0
+174,263,https://www.goodreads.com/book/show/8228407-english-fairy-tales,English Fairy Tales,Joseph Jacobs,1898.0
+175,264,https://www.goodreads.com/book/show/5974828-the-damned-thing,The Damned Thing,Ambrose Bierce,1894.0
+176,265,https://www.goodreads.com/book/show/658.The_Kingdom_of_God_Is_Within_You,The Kingdom of God Is Within You,Leo Tolstoy,1893.0
+177,266,https://www.goodreads.com/book/show/22158237-the-red-room,The Red Room,H.G. Wells,1894.0
+178,267,https://www.goodreads.com/book/show/1352191.The_Big_Bow_Mystery,The Big Bow Mystery,Israel Zangwill,1892.0
+179,268,https://www.goodreads.com/book/show/1294006.Myths_and_Folk_Tales_of_Ireland,Myths and Folk Tales of Ireland,Jeremiah Curtin,1890.0
+180,269,https://www.goodreads.com/book/show/909375.The_Glittering_Plain,The Glittering Plain,William Morris,1890.0
+181,270,https://www.goodreads.com/book/show/7862203-the-red-hand,The Red Hand,Arthur Machen,1895.0
+182,271,https://www.goodreads.com/book/show/310558.The_Inmost_Light,The Inmost Light,Arthur Machen,1894.0
+183,272,https://www.goodreads.com/book/show/310557.The_Novel_Of_The_Black_Seal,The Novel Of The Black Seal,Arthur Machen,1895.0
+184,273,https://www.goodreads.com/book/show/25896953-the-red-record,The Red Record,Ida B. Wells-Barnett,1895.0
+185,275,https://www.goodreads.com/book/show/2417167.The_Wonderful_Visit,The Wonderful Visit,H.G. Wells,1895.0
+186,276,https://www.goodreads.com/book/show/672172.The_Altar_of_the_Dead,The Altar of the Dead,Henry James,1895.0
+187,277,https://www.goodreads.com/book/show/14461495-island-nights-entertainments,Island Nights' Entertainments,Robert Louis Stevenson,1893.0
+188,281,https://www.goodreads.com/book/show/1084124.The_Pupil,The Pupil,Henry James,1891.0
+189,282,https://www.goodreads.com/book/show/11532497-dostlar-m-z-n-dostlar,Dostlarımızın Dostları,Henry James,1896.0
+190,284,https://www.goodreads.com/book/show/3493168-o-corti-o,O Cortiço,Aluísio Azevedo,1890.0
+191,285,https://www.goodreads.com/book/show/1044650.The_Woman_and_the_Puppet,The Woman and the Puppet,Pierre Louÿs,1898.0
+192,286,https://www.goodreads.com/book/show/484466.Lalka,Lalka,Bolesław Prus,1890.0
+193,287,https://www.goodreads.com/book/show/383018.Arms_and_the_Man,Arms and the Man,George Bernard Shaw,1898.0
+194,293,https://www.goodreads.com/book/show/2933037-nightmares-of-an-ether-drinker,Nightmares of an Ether Drinker,Jean Lorrain,1895.0
+195,294,https://www.goodreads.com/book/show/1612379.Winnetou_I,Winnetou I: Kepala Suku Apache,Karl May,1893.0
+196,296,https://www.goodreads.com/book/show/78842.Il_Corsaro_Nero,Il Corsaro Nero,Emilio Salgari,1898.0
+197,299,https://www.goodreads.com/book/show/37458326-the-children-s-crusade,The Children’s Crusade,Marcel Schwob,1896.0
+198,300,https://www.goodreads.com/book/show/264693.Sylvie_and_Bruno_Concluded,Sylvie and Bruno Concluded,Lewis Carroll,1893.0
+199,301,https://www.goodreads.com/book/show/196945.The_Torture_Garden,The Torture Garden,Octave Mirbeau,1899.0
+200,302,https://www.goodreads.com/book/show/25235938-the-tower-of-dago,The Tower of Dago ,Mór Jókai,1899.0
+201,304,https://www.goodreads.com/book/show/182086.Iola_Leroy,Iola Leroy,Frances Ellen Watkins Harper,1892.0
+202,307,https://www.goodreads.com/book/show/91539.In_Ghostly_Japan,"In Ghostly Japan: Spooky Stories with the Folklore, Superstitions and Traditions of Old Japan",Lafcadio Hearn,1899.0
+203,308,https://www.goodreads.com/book/show/11226926-the-white-people-and-other-weird-stories,The White People and Other Weird Stories,Arthur Machen,1904.0
+204,309,https://www.goodreads.com/book/show/864386.Tales_of_Unease,Tales of Unease,Arthur Conan Doyle,1894.0
+205,314,https://www.goodreads.com/book/show/648316.Esther_Waters,Esther Waters,George Moore,1894.0
+206,315,https://www.goodreads.com/book/show/12190.The_Return,The Return,Joseph Conrad,1898.0
+207,317,https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes,The Complete Sherlock Holmes,Arthur Conan Doyle,1894.0
+208,321,https://www.goodreads.com/book/show/11551132-in-the-forbidden-land,In the Forbidden Land,Arnold Henry Savage Landor,1898.0
+209,322,https://www.goodreads.com/book/show/226374.The_Duel_and_Other_Stories,The Duel and Other Stories,Anton Chekhov,1891.0
+210,323,https://www.goodreads.com/book/show/6559410-the-yellow-danger,The Yellow Danger ,M.P. Shiel,1898.0
+211,324,https://www.goodreads.com/book/show/3675800-the-adventure-of-two-dutch-dolls-and-a-golliwogg,The Adventure of Two Dutch Dolls and a Golliwogg,Florence Kate Upton,1895.0
+212,327,https://www.goodreads.com/book/show/12194.Lord_Jim,Lord Jim,Joseph Conrad,1899.0
+213,328,https://www.goodreads.com/book/show/804142.A_Night_In_Acadie,A Night In Acadie,Kate Chopin,1897.0
+214,329,https://www.goodreads.com/book/show/7419969-bayou-folk,Bayou folk,Kate Chopin,1891.0
+215,330,https://www.goodreads.com/book/show/815295.At_Fault,At Fault,Kate Chopin,1890.0
+216,331,https://www.goodreads.com/book/show/54494.The_Prisoner_of_Zenda_Rupert_of_Hentzau,The Prisoner of Zenda & Rupert of Hentzau,Anthony Hope,1894.0
+217,332,https://www.goodreads.com/book/show/3218173-the-well-at-the-world-s-end,The Well at the World's End,William Morris,1896.0
+218,333,https://www.goodreads.com/book/show/1013860.Anatol,Anatol,Arthur Schnitzler,1893.0
+219,334,https://www.goodreads.com/book/show/3160761-the-weavers,The Weavers,Gerhart Hauptmann,1892.0
+220,335,https://www.goodreads.com/book/show/1778663.The_Open_Boat,The Open Boat,Stephen Crane,1897.0
+221,338,https://www.goodreads.com/book/show/8513785-the-plattner-story-and-others,The Plattner Story and Others,H.G. Wells,1897.0
+222,342,https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz,The Wonderful Wizard of Oz ,L. Frank Baum,1900.0
+223,346,https://www.goodreads.com/book/show/7551110-character,Character: The Grandest Thing in the World,Orison Swett Marden,1899.0
+224,347,https://www.goodreads.com/book/show/28419.La_D_b_cle,La Débâcle,Émile Zola,1892.0
+225,349,https://www.goodreads.com/book/show/2975902-the-wife-and-other-stories,The Wife and Other Stories,Anton Chekhov,1898.0
+226,350,https://www.goodreads.com/book/show/312865.My_Life,My Life,Anton Chekhov,1896.0
+227,351,https://www.goodreads.com/book/show/8642815-irretrievable,Irretrievable,Theodor Fontane,1891.0
+228,352,https://www.goodreads.com/book/show/5289.Complete_Works_of_Oscar_Wilde,Complete Works of Oscar Wilde,Oscar Wilde,1908.0
+229,354,https://www.goodreads.com/book/show/91980.The_Mountains_of_California,The Mountains of California,John Muir,1894.0
+230,355,https://www.goodreads.com/book/show/7865879-nature-stories,Nature Stories,Jules Renard,1894.0
+231,357,https://www.goodreads.com/book/show/826706.Joan_of_Arc,Joan of Arc,Mark Twain,1896.0
+232,358,https://www.goodreads.com/book/show/2010710.The_American_Claimant,The American Claimant,Mark Twain,1892.0
+233,362,https://www.goodreads.com/book/show/1146615.The_Monk_and_the_Hangman_s_Daughter,The Monk and the Hangman's Daughter,Ambrose Bierce,1892.0
+234,363,https://www.goodreads.com/book/show/398936.Liza_of_Lambeth,Liza of Lambeth,W. Somerset Maugham,1897.0
+235,364,https://www.goodreads.com/book/show/759212.The_Teutonic_Knights,The Teutonic Knights,Henryk Sienkiewicz,1900.0
+236,366,https://www.goodreads.com/book/show/6943892-the-adventure-of-the-beryl-coronet---a-sherlock-holmes-short-story,The Adventure of the Beryl Coronet - a Sherlock Holmes Short Story ,Arthur Conan Doyle,1892.0
+237,367,https://www.goodreads.com/book/show/2737483-the-adventure-of-the-copper-beeches---a-sherlock-holmes-short-story,The Adventure of the Copper Beeches - a Sherlock Holmes Short Story ,Arthur Conan Doyle,1892.0
+238,368,https://www.goodreads.com/book/show/2121208.The_Adventure_of_the_Noble_Bachelor,The Adventure of the Noble Bachelor ,Arthur Conan Doyle,1891.0
+239,369,https://www.goodreads.com/book/show/6640932-der-daumen-des-ingenieurs,Der Daumen des Ingenieurs ,Arthur Conan Doyle,1892.0
+240,370,https://www.goodreads.com/book/show/2029162.The_Speckled_Band,The Speckled Band,Arthur Conan Doyle,1892.0
+241,371,https://www.goodreads.com/book/show/5459311-the-man-with-the-twisted-lip---a-sherlock-holmes-short-story,The Man with the Twisted Lip - a Sherlock Holmes Short Story  ,Arthur Conan Doyle,1891.0
+242,372,https://www.goodreads.com/book/show/6637180-the-boscombe-valley-mystery---a-sherlock-holmes-short-story,The Boscombe Valley Mystery - a Sherlock Holmes Short Story,Arthur Conan Doyle,1891.0
+243,373,https://www.goodreads.com/book/show/2806829-a-case-of-identity---a-sherlock-holmes-short-story,A Case of Identity - a Sherlock Holmes Short Story ,Arthur Conan Doyle,1891.0
+244,377,https://www.goodreads.com/book/show/968595.Red_Pottage,Red Pottage,Mary Cholmondeley,1899.0
+245,378,https://www.goodreads.com/book/show/174296.Una_vita,Una vita,Italo Svevo,1892.0
+246,379,https://www.goodreads.com/book/show/2108207.In_the_High_Valley,In the High Valley,Susan Coolidge,1890.0
+247,380,https://www.goodreads.com/book/show/494164.Following_the_Equator,Following the Equator: A Journey Around the World,Mark Twain,1897.0
+248,382,https://www.goodreads.com/book/show/723762.Men_of_Iron,Men of Iron,Howard Pyle,1891.0
+249,383,https://www.goodreads.com/book/show/774544.The_Red_Fairy_Book,The Red Fairy Book,Andrew Lang,1890.0
+250,384,https://www.goodreads.com/book/show/795387.Mrs_Warren_s_Profession,Mrs. Warren's Profession,George Bernard Shaw,1898.0
+251,385,https://www.goodreads.com/book/show/752273.The_Bad_Child_s_Book_of_Beasts,The Bad Child's Book of Beasts,Hilaire Belloc,1896.0
+252,386,https://www.goodreads.com/book/show/54455.The_Road,The Road,Jack London,1907.0
+253,389,https://www.goodreads.com/book/show/66867.Complete_Stories_1884_1891,Complete Stories 1884–1891,Henry James,1891.0
+254,390,https://www.goodreads.com/book/show/223838.In_His_Steps,In His Steps,Charles M. Sheldon,1897.0
+255,391,https://www.goodreads.com/book/show/751629.The_Tragic_Muse,The Tragic Muse,Henry James,1890.0
+256,392,https://www.goodreads.com/book/show/2281435.Pembroke,Pembroke,Mary E. Wilkins Freeman,1894.0
+257,393,https://www.goodreads.com/book/show/587138.The_Monster_And_Other_Stories,"The Monster, And Other Stories",Stephen Crane,1898.0
+258,394,https://www.goodreads.com/book/show/680024.A_New_England_Nun_and_Other_Stories,A New England Nun and Other Stories,Mary E. Wilkins Freeman,1891.0
+259,395,https://www.goodreads.com/book/show/819633.Equality,Equality,Edward Bellamy,1897.0
+260,397,https://www.goodreads.com/book/show/179073.The_Open_Boat_and_Other_Stories,The Open Boat and Other Stories,Stephen Crane,1898.0
+261,398,https://www.goodreads.com/book/show/1554931.Yes_Virginia_There_Is_a_Santa_Claus,"Yes, Virginia, There Is a Santa Claus",Francis Pharcellus Church,1897.0
+262,408,https://www.goodreads.com/book/show/4581821-the-god-of-his-fathers,The God of His Fathers,Jack London,1901.0
+263,409,https://www.goodreads.com/book/show/24874307-the-yellow-wall-paper,The Yellow Wall-Paper,Charlotte Perkins Gilman,1892.0
+264,410,https://www.goodreads.com/book/show/2836089-the-son-of-the-wolf,The Son of the Wolf: Tales of the Far North,Jack London,1900.0
+265,440,https://www.goodreads.com/book/show/5390186-irene-iddesleigh,Irene Iddesleigh,Amanda McKittrick Ros,1897.0
+266,450,https://www.goodreads.com/book/show/1841682.Komediantka,Komediantka,Władysław Stanisław Reymont,1896.0
+267,453,https://www.goodreads.com/book/show/6962576-lazy-thoughts-of-a-lazy-girl,Lazy Thoughts of a Lazy Girl,Jenny Wren,1891.0
+268,455,https://www.goodreads.com/book/show/16161812,О любви,Anton Chekhov,1898.0
+269,456,https://www.goodreads.com/book/show/9673243,Една българка,Ivan Vazov,1898.0
+270,457,https://www.goodreads.com/book/show/1805609._,До Чикаго и назад. Пътеписи от България,Aleko Konstantinov,1894.0
+271,461,https://www.goodreads.com/book/show/28385.In_the_Shadow_of_Young_Girls_in_Flower,In the Shadow of Young Girls in Flower,Marcel Proust,1919.0
+272,462,https://www.goodreads.com/book/show/23754357-ghosts,Ghosts: Being the Experiences of Flaxman Low,H. Hesketh-Prichard,1899.0
+273,463,https://www.goodreads.com/book/show/35221.The_Red_Badge_of_Courage_and_Other_Stories,The Red Badge of Courage and Other Stories,Stephen Crane,1895.0
+274,466,https://www.goodreads.com/book/show/15835738-rubaiyat-of-doc-sifers,Rubaiyat of Doc Sifers,James Whitcomb Riley,1897.0
+275,477,https://www.goodreads.com/book/show/38651773,Великият бог Пан,Arthur Machen,1894.0
+276,482,https://www.goodreads.com/book/show/392478.Billy_Budd_and_Other_Tales,Billy Budd and Other Tales,Herman Melville,1924.0
+277,495,https://www.goodreads.com/book/show/6328670-the-arabian-nights,The Arabian Nights,Andrew Lang,1898.0
+278,0,https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables,Anne of Green Gables ,L.M. Montgomery,1908.0
+279,1,https://www.goodreads.com/book/show/3087.A_Room_with_a_View,A Room with a View,E.M. Forster,1908.0
+280,2,https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz,The Wonderful Wizard of Oz ,L. Frank Baum,1900.0
+281,3,https://www.goodreads.com/book/show/1852.The_Call_of_the_Wild,The Call of the Wild,Jack London,1903.0
+282,4,https://www.goodreads.com/book/show/17728.The_House_of_Mirth,The House of Mirth,Edith Wharton,1905.0
+283,5,https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles,The Hound of the Baskervilles ,Arthur Conan Doyle,1901.0
+284,6,https://www.goodreads.com/book/show/4671.The_Great_Gatsby,The Great Gatsby,F. Scott Fitzgerald,1925.0
+285,7,https://www.goodreads.com/book/show/5659.The_Wind_in_the_Willows,The Wind in the Willows,Kenneth Grahame,1908.0
+286,10,https://www.goodreads.com/book/show/41681.The_Jungle,The Jungle,Upton Sinclair,1905.0
+287,13,https://www.goodreads.com/book/show/2998.The_Secret_Garden,The Secret Garden,Frances Hodgson Burnett,1911.0
+288,15,https://www.goodreads.com/book/show/34268.Peter_Pan,Peter Pan,J.M. Barrie,1911.0
+289,16,https://www.goodreads.com/book/show/3008.A_Little_Princess,A Little Princess,Frances Hodgson Burnett,1905.0
+290,17,https://www.goodreads.com/book/show/43035.White_Fang,White Fang,Jack London,1906.0
+291,19,https://www.goodreads.com/book/show/890.Of_Mice_and_Men,Of Mice and Men,John Steinbeck,1937.0
+292,21,https://www.goodreads.com/book/show/5129.Brave_New_World,Brave New World,Aldous Huxley,1932.0
+293,22,https://www.goodreads.com/book/show/480204.The_Phantom_of_the_Opera,The Phantom of the Opera,Gaston Leroux,1909.0
+294,24,https://www.goodreads.com/book/show/5907.The_Hobbit,The Hobbit ,J.R.R. Tolkien,1937.0
+295,25,https://www.goodreads.com/book/show/77390.Anne_of_Avonlea,Anne of Avonlea ,L.M. Montgomery,1909.0
+296,26,https://www.goodreads.com/book/show/184419.The_Man_Who_Was_Thursday,The Man Who Was Thursday: A Nightmare,G.K. Chesterton,1908.0
+297,29,https://www.goodreads.com/book/show/17899948-rebecca,Rebecca,Daphne du Maurier,1938.0
+298,30,https://www.goodreads.com/book/show/80890.Buddenbrooks,Buddenbrooks: The Decline of a Family,Thomas Mann,1901.0
+299,31,https://www.goodreads.com/book/show/136116.The_Scarlet_Pimpernel,The Scarlet Pimpernel,Emmuska Orczy,1905.0
+300,35,https://www.goodreads.com/book/show/14942.Mrs_Dalloway,Mrs. Dalloway,Virginia Woolf,1925.0
+301,38,https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front,All Quiet on the Western Front,Erich Maria Remarque,1928.0
+302,39,https://www.goodreads.com/book/show/338798.Ulysses,Ulysses,James Joyce,1922.0
+303,43,https://www.goodreads.com/book/show/59716.To_the_Lighthouse,To the Lighthouse,Virginia Woolf,1927.0
+304,44,https://www.goodreads.com/book/show/10799.A_Farewell_to_Arms,A Farewell to Arms,Ernest Hemingway,1929.0
+305,45,https://www.goodreads.com/book/show/210834.Kim,Kim,Rudyard Kipling,1901.0
+306,46,https://www.goodreads.com/book/show/16299.And_Then_There_Were_None,And Then There Were None,Agatha Christie,1939.0
+307,48,https://www.goodreads.com/book/show/70101.The_Immoralist,The Immoralist,André Gide,1902.0
+308,49,https://www.goodreads.com/book/show/485894.The_Metamorphosis,The Metamorphosis,Franz Kafka,1915.0
+309,50,https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath,The Grapes of Wrath,John Steinbeck,1939.0
+310,53,https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God,Their Eyes Were Watching God,Zora Neale Hurston,1937.0
+311,56,https://www.goodreads.com/book/show/126609.Sister_Carrie,Sister Carrie,Theodore Dreiser,1900.0
+312,57,https://www.goodreads.com/book/show/12194.Lord_Jim,Lord Jim,Joseph Conrad,1899.0
+313,59,https://www.goodreads.com/book/show/4900.Heart_of_Darkness,Heart of Darkness,Joseph Conrad,1899.0
+314,60,https://www.goodreads.com/book/show/5246.Ethan_Frome,Ethan Frome,Edith Wharton,1911.0
+315,61,https://www.goodreads.com/book/show/775366.The_Ambassadors,The Ambassadors,Henry James,1903.0
+316,63,https://www.goodreads.com/book/show/3876.The_Sun_Also_Rises,The Sun Also Rises,Ernest Hemingway,1926.0
+317,65,https://www.goodreads.com/book/show/86658.The_Secret_Agent,The Secret Agent,Joseph Conrad,1907.0
+318,66,https://www.goodreads.com/book/show/46164.Tender_Is_the_Night,Tender Is the Night,F. Scott Fitzgerald,1934.0
+319,71,https://www.goodreads.com/book/show/143534.The_Gift_of_the_Magi,The Gift of the Magi,O. Henry,1905.0
+320,73,https://www.goodreads.com/book/show/194366.The_Return_of_Sherlock_Holmes,The Return of Sherlock Holmes ,Arthur Conan Doyle,1905.0
+321,74,https://www.goodreads.com/book/show/7588.A_Portrait_of_the_Artist_as_a_Young_Man,A Portrait of the Artist as a Young Man,James Joyce,1916.0
+322,76,https://www.goodreads.com/book/show/53835.The_Age_of_Innocence,The Age of Innocence,Edith Wharton,1920.0
+323,78,https://www.goodreads.com/book/show/3677.Where_Angels_Fear_to_Tread,Where Angels Fear to Tread,E.M. Forster,1905.0
+324,81,https://www.goodreads.com/book/show/32049.Lady_Chatterley_s_Lover,Lady Chatterley's Lover,D.H. Lawrence,1928.0
+325,83,https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express,Murder on the Orient Express ,Agatha Christie,1934.0
+326,85,https://www.goodreads.com/book/show/17690.The_Trial,The Trial,Franz Kafka,1925.0
+327,86,https://www.goodreads.com/book/show/18405.Gone_with_the_Wind,Gone with the Wind,Margaret Mitchell,1936.0
+328,92,https://www.goodreads.com/book/show/38374795-howards-end,Howards End,E.M. Forster,1910.0
+329,94,https://www.goodreads.com/book/show/124272.The_Wings_of_the_Dove,The Wings of the Dove,Henry James,1902.0
+330,97,https://www.goodreads.com/book/show/52036.Siddhartha,Siddhartha,Hermann Hesse,1922.0
+331,99,https://www.goodreads.com/book/show/19321.The_Tale_of_Peter_Rabbit,The Tale of Peter Rabbit,Beatrix Potter,1901.0
+332,106,https://www.goodreads.com/book/show/141270.Ars_ne_Lupin_Gentleman_Thief,"Arsène Lupin, Gentleman-Thief ",Maurice Leblanc,1907.0
+333,109,https://www.goodreads.com/book/show/77013.As_I_Lay_Dying,As I Lay Dying,William Faulkner,1930.0
+334,111,https://www.goodreads.com/book/show/45181.Five_Children_and_It,Five Children and It ,E. Nesbit,1902.0
+335,112,https://www.goodreads.com/book/show/821611.The_Story_of_My_Life,The Story of My Life,Helen Keller,1902.0
+336,114,https://www.goodreads.com/book/show/16631.Steppenwolf,Steppenwolf,Hermann Hesse,1927.0
+337,119,https://www.goodreads.com/book/show/87346.The_Cherry_Orchard,The Cherry Orchard,Anton Chekhov,1903.0
+338,120,https://www.goodreads.com/book/show/18839.Orlando,Orlando,Virginia Woolf,1928.0
+339,122,https://www.goodreads.com/book/show/188454.The_Old_Wives_Tale,The Old Wives' Tale,Arnold Bennett,1908.0
+340,123,https://www.goodreads.com/book/show/318742.The_Souls_of_Black_Folk,The Souls of Black Folk,W.E.B. Du Bois,1903.0
+341,124,https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd,The Murder of Roger Ackroyd ,Agatha Christie,1926.0
+342,125,https://www.goodreads.com/book/show/17529.Rebecca_of_Sunnybrook_Farm,Rebecca of Sunnybrook Farm,Kate Douglas Wiggin,1903.0
+343,127,https://www.goodreads.com/book/show/126512.The_Way_of_All_Flesh,The Way of All Flesh,Samuel Butler,1903.0
+344,129,https://www.goodreads.com/book/show/536478.The_First_Men_in_the_Moon,The First Men in the Moon,H.G. Wells,1901.0
+345,130,https://www.goodreads.com/book/show/52843028-the-mysterious-affair-at-styles,The Mysterious Affair at Styles ,Agatha Christie,1920.0
+346,131,https://www.goodreads.com/book/show/164531.The_Railway_Children,The Railway Children,E. Nesbit,1906.0
+347,135,https://www.goodreads.com/book/show/929782.Martin_Eden,Martin Eden,Jack London,1908.0
+348,144,https://www.goodreads.com/book/show/1078.The_Good_Earth,The Good Earth ,Pearl S. Buck,1931.0
+349,145,https://www.goodreads.com/book/show/34053.Just_So_Stories,Just So Stories,Rudyard Kipling,1902.0
+350,146,https://www.goodreads.com/book/show/11012.Dubliners,Dubliners,James Joyce,1914.0
+351,147,https://www.goodreads.com/book/show/43049.The_Sea_Wolf,The Sea Wolf,Jack London,1904.0
+352,149,https://www.goodreads.com/book/show/31548.Of_Human_Bondage,Of Human Bondage,W. Somerset Maugham,1915.0
+353,150,https://www.goodreads.com/book/show/57640287-passing,Passing,Nella Larsen,1929.0
+354,151,https://www.goodreads.com/book/show/7628.The_Good_Soldier,The Good Soldier,Ford Madox Ford,1915.0
+355,152,https://www.goodreads.com/book/show/10975.The_Sound_and_the_Fury,The Sound and the Fury,William Faulkner,1929.0
+356,155,https://www.goodreads.com/book/show/32071.Sons_and_Lovers,Sons and Lovers,D.H. Lawrence,1913.0
+357,158,https://www.goodreads.com/book/show/45195.A_Passage_to_India,A Passage to India,E.M. Forster,1924.0
+358,162,https://www.goodreads.com/book/show/15622.Native_Son,Native Son,Richard Wright,1940.0
+359,164,https://www.goodreads.com/book/show/18521.A_Room_of_One_s_Own,A Room of One's Own,Virginia Woolf,1928.0
+360,165,https://www.goodreads.com/book/show/249.Tropic_of_Cancer,Tropic of Cancer ,Henry Miller,1934.0
+361,170,https://www.goodreads.com/book/show/298275.Nausea,Nausea,Jean-Paul Sartre,1938.0
+362,173,https://www.goodreads.com/book/show/179565.The_Marvelous_Land_of_Oz,The Marvelous Land of Oz ,L. Frank Baum,1904.0
+363,176,https://www.goodreads.com/book/show/789497.Doctor_Glas,Doctor Glas,Hjalmar Söderberg,1905.0
+364,177,https://www.goodreads.com/book/show/4711854-the-machine-stops,The Machine Stops,E.M. Forster,1909.0
+365,180,https://www.goodreads.com/book/show/46165.This_Side_of_Paradise,This Side of Paradise,F. Scott Fitzgerald,1920.0
+366,181,https://www.goodreads.com/book/show/46114.The_Waves,The Waves,Virginia Woolf,1931.0
+367,184,https://www.goodreads.com/book/show/2052.The_Big_Sleep,The Big Sleep ,Raymond Chandler,1939.0
+368,185,https://www.goodreads.com/book/show/781787.Out_of_Africa,Out of Africa,Isak Dinesen,1937.0
+369,187,https://www.goodreads.com/book/show/103159.The_Forsyte_Saga,The Forsyte Saga ,John Galsworthy,1922.0
+370,188,https://www.goodreads.com/book/show/37380.The_Heart_Is_a_Lonely_Hunter,The Heart Is a Lonely Hunter,Carson McCullers,1940.0
+371,189,https://www.goodreads.com/book/show/373755.Absalom_Absalom_,"Absalom, Absalom!",William Faulkner,1936.0
+372,192,https://www.goodreads.com/book/show/115476.Nostromo,Nostromo,Joseph Conrad,1904.0
+373,193,https://www.goodreads.com/book/show/12116.The_Late_Mattia_Pascal,The Late Mattia Pascal,Luigi Pirandello,1904.0
+374,196,https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls,For Whom the Bell Tolls,Ernest Hemingway,1940.0
+375,197,https://www.goodreads.com/book/show/150555.The_Magician,The Magician,W. Somerset Maugham,1908.0
+376,198,https://www.goodreads.com/book/show/46199.Letters_to_a_Young_Poet,Letters to a Young Poet,Rainer Maria Rilke,1929.0
+377,199,https://www.goodreads.com/book/show/62772.I_Am_a_Cat,I Am a Cat,Natsume Sōseki,1905.0
+378,202,https://www.goodreads.com/book/show/153492.The_39_Steps,The 39 Steps ,John Buchan,1915.0
+379,204,https://www.goodreads.com/book/show/929783.The_Iron_Heel,The Iron Heel,Jack London,1908.0
+380,206,https://www.goodreads.com/book/show/29718.The_Confusions_of_Young_T_rless,The Confusions of Young Törless,Robert Musil,1906.0
+381,208,https://www.goodreads.com/book/show/259020.The_Golden_Bowl,The Golden Bowl,Henry James,1904.0
+382,211,https://www.goodreads.com/book/show/220937.The_House_on_the_Borderland,The House on the Borderland,William Hope Hodgson,1908.0
+383,212,https://www.goodreads.com/book/show/12749.Swann_s_Way,Swann’s Way,Marcel Proust,1913.0
+384,213,https://www.goodreads.com/book/show/77395.Rainbow_Valley,Rainbow Valley ,L.M. Montgomery,1919.0
+385,215,https://www.goodreads.com/book/show/11376.Main_Street,Main Street,Sinclair Lewis,1920.0
+386,216,https://www.goodreads.com/book/show/77392.Anne_of_the_Island,Anne of the Island ,L.M. Montgomery,1915.0
+387,218,https://www.goodreads.com/book/show/143513.The_Three_Sisters,The Three Sisters,Anton Chekhov,1900.0
+388,222,https://www.goodreads.com/book/show/12395.Journey_to_the_End_of_the_Night,Journey to the End of the Night,Louis-Ferdinand Céline,1932.0
+389,223,https://www.goodreads.com/book/show/160010.The_Return_of_the_Soldier,The Return of the Soldier,Rebecca West,1918.0
+390,224,https://www.goodreads.com/book/show/3690.The_Power_and_the_Glory,The Power and the Glory,Graham Greene,1940.0
+391,228,https://www.goodreads.com/book/show/88077.The_Magic_Mountain,The Magic Mountain,Thomas Mann,1924.0
+392,234,https://www.goodreads.com/book/show/131359.Death_on_the_Nile,Death on the Nile ,Agatha Christie,1937.0
+393,236,https://www.goodreads.com/book/show/7045906-the-making-of-a-marchioness-part-i-and-ii,"The Making of a Marchioness, Part I and II ",Frances Hodgson Burnett,1901.0
+394,238,https://www.goodreads.com/book/show/1335601.The_Willows,The Willows,Algernon Blackwood,1907.0
+395,244,https://www.goodreads.com/book/show/62773.The_Three_Cornered_World,The Three-Cornered World,Natsume Sōseki,1906.0
+396,245,https://www.goodreads.com/book/show/7714.Pygmalion,Pygmalion,George Bernard Shaw,1912.0
+397,246,https://www.goodreads.com/book/show/140963.O_Pioneers_,O Pioneers! ,Willa Cather,1913.0
+398,247,https://www.goodreads.com/book/show/49256.The_Unabridged_Devil_s_Dictionary,The Unabridged Devil's Dictionary,Ambrose Bierce,1911.0
+399,250,https://www.goodreads.com/book/show/53061.Death_in_Venice,Death in Venice,Thomas Mann,1912.0
+400,251,https://www.goodreads.com/book/show/119042.My_Brilliant_Career,My Brilliant Career,Miles Franklin,1901.0

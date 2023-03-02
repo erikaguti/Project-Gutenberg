@@ -3,10 +3,11 @@ import requests
 import urllib.request
 import re
 import pandas as pd
+import os
 
 # only downloads books in english
 
-baseurl = 'https://gutendex.com/books?languages=en'
+baseurl = 'https://gutendex.com/books?languages=en&topic=fiction'
 
 def get_text_file(formats, id):
    for format in formats.values():
@@ -16,7 +17,7 @@ def get_text_file(formats, id):
 
 def download_txt_file(booktxt, id):
     r = requests.get(booktxt)
-    f = open(f"../Books/{id}.txt", "w")
+    f = open(f"/Books/{id}.txt", "w")
     f.write(str(r.content))
     f.close()
 
