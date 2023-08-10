@@ -2,7 +2,7 @@
 
 TLDR - We did this: [Kurt Vonnegut on the Shapes of Stories](https://www.youtube.com/watch?v=oP3c1h8v2ZQ&t=186s)
 
-This project was done in collaboration with [Eric Frey](https://www.linkedin.com/in/eric-frey-a27b27114/) and [Davis Thomas]([https://www.linkedin.com/in/davis-jacob-thomas/]) at the Barcelona School of Economics. 
+This project was done in collaboration with [Eric Frey](https://www.linkedin.com/in/eric-frey-a27b27114/) and [Davis Thomas](https://www.linkedin.com/in/davis-jacob-thomas/) at the Barcelona School of Economics. 
 
 After stumbling upon [Project Gutenberg](https://www.gutenberg.org/), a database of 60,000 ebooks we were curious to uncover if we could extract the emotional arc of a book and determine if there was commonality of certain arc shapes across other books. Our program director then asked us to take it a step further and tie the frequency of emotional arcs to a societal shock. Therefore for this project, we use World War I (WWI) as an example emotional shock to society and compare the frequency of the emotional arcs shapes in the books published leading up to the war and after it. 
 
